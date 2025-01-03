@@ -47,8 +47,10 @@
 | 22 | AI特許検索 | AIを使用して特許を検索および分析 | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
 | 23 | AIドキュメントエディター | AI版Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 | 24 | AI音楽制作 | AIを使用して音楽や歌を生成する | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
-| 25 | AIホワイトボード | AIを使って素早くホワイトボードにスケッチを作成しよう！ | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
-
+| 25 | AIホワイトボード | AIを使って素早くホワイトボードにスケッチを作成しよう | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
+| 26 | AI動画素材クリエイティブステーション | AIを用いたビデオ素材の合成 | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
+| 27 | AI履歴書作成 | AIを使った高品質履歴書の作成 | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
+| 28 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -162,7 +164,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url15]: https://github.com/302ai/302_video_summary
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
-<a href="https://github.com/302ai/302_video_summary"><img src="https://github.com/302ai/.github/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%80%BB%E7%BB%93jp.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_video_summary"><img src="/AI音视频总结jp.png"/></a>
 
 ## 8. AI画像翻訳 ##
 
@@ -258,7 +260,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url27]: https://github.com/302ai/302_podcast_generator
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
-<a href="https://github.com/302ai/302_podcast_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%92%AD%E5%AE%A2%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_podcast_generator"><img src="/AI音视频总结jp.png"/></a>
 
 ## 14. AIコピーライティングアシスタント ##
 
@@ -452,5 +454,53 @@ AIを使って素早くホワイトボードにスケッチを作成しよう
 [saas-url51]: https://github.com/302ai/302_whiteboard
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
 <a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/302_Whiteboard_jp.png"/></a>
+
+## 26. AI動画素材クリエイティブステーション ##
+
+AIを用いたビデオ素材の合成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image52]][saas-url52]
+[![Saas][Saas-image53]][saas-url53]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url52]: https://302.ai/ja/tools/video/
+[saas-image52]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url53]: https://github.com/302ai/302_video_creation_hub
+[saas-image53]: https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social
+<a href="https://github.com/302ai/302_video_creation_hub"><img src="/AI视频素材创意站jp.png"/></a>
+
+## 27. AI履歴書作成 ##
+
+AIを使った高品質履歴書の作成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image54]][saas-url54]
+[![Saas][Saas-image55]][saas-url55]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url54]: https://302.ai/ja/tools/resume/
+[saas-image54]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url55]: https://github.com/302ai/302_resume
+[saas-image55]: https://img.shields.io/github/stars/302ai/302_resume?style=social
+<a href="https://github.com/302ai/302_resume"><img src="/AI简历制作jp.png"/></a>
+
+## 28. AIトーキング写真 ##
+
+AIを使って写真に話しかける
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image56]][saas-url56]
+[![Saas][Saas-image57]][saas-url57]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url56]: https://302.ai/ja/tools/lipsync/
+[saas-image56]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url57]: https://github.com/302ai/302_lipsync
+[saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
+<a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话jp.png"/></a>
 
 ### 毎週更新、ご注目ください

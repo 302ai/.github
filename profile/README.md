@@ -47,6 +47,9 @@ It is recommended to experience online first, and then find the projects you are
 | 23 | AI Document Editor | An AI version Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 | 24 | AI Music Production | Use AI to generate music and songs | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
 | 25 | AI Whiteboard | Quickly create sketches on a whiteboard using AI | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
+| 26 | AI Video Creation Hub | Using AI to synthesize video materials | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
+| 27 | AI Resume Creation | Using AI to create high-quality resumes | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
+| 28 | AI Talking Photo | Using AI to make photos speak up | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -161,7 +164,7 @@ One-click summary of video content
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url15]: https://github.com/302ai/302_video_summary
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
-<a href="https://github.com/302ai/302_video_summary"><img src="https://github.com/302ai/.github/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%80%BB%E7%BB%93en.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_video_summary"><img src="/AI音视频总结en.png"/></a>
 
 ## 8. AI Image Translation ##
 
@@ -257,7 +260,7 @@ Quickly generates AI voice podcasts
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url27]: https://github.com/302ai/302_podcast_generator
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
-<a href="https://github.com/302ai/302_podcast_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%92%AD%E5%AE%A2%E7%94%9F%E6%88%90%E5%99%A8en.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_podcast_generator"><img src="/AI播客生成器en.png"/></a>
 
 ## 14. AI Copywriting Assistant ##
 
@@ -452,5 +455,53 @@ Quickly create sketches on a whiteboard using AI
 [saas-url51]: https://github.com/302ai/302_whiteboard
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
 <a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/302_Whiteboard_en.png"/></a>
+
+## 26. AI Video Creation Hub ##
+
+Using AI to synthesize video materials
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image52]][saas-url52]
+[![Saas][Saas-image53]][saas-url53]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url52]: https://302.ai/en/tools/video/
+[saas-image52]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url53]: https://github.com/302ai/302_video_creation_hub
+[saas-image53]: https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social
+<a href="https://github.com/302ai/302_video_creation_hub"><img src="/AI视频素材创意站en.png"/></a>
+
+## 27. AI Resume Creation ##
+
+Using AI to create high-quality resumes
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image54]][saas-url54]
+[![Saas][Saas-image55]][saas-url55]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url54]: https://302.ai/en/tools/resume/
+[saas-image54]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url55]: https://github.com/302ai/302_resume
+[saas-image55]: https://img.shields.io/github/stars/302ai/302_resume?style=social
+<a href="https://github.com/302ai/302_resume"><img src="/AI简历制作en.png"/></a>
+
+## 28. AI Talking Photo ##
+
+Using AI to make photos speak up
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image56]][saas-url56]
+[![Saas][Saas-image57]][saas-url57]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url56]: https://302.ai/en/tools/lipsync/
+[saas-image56]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url57]: https://github.com/302ai/302_lipsync
+[saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
+<a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话en.png"/></a>
 
 ### Weekly updates, stay tuned.
