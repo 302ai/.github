@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 28 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 29 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -50,6 +50,7 @@ It is recommended to experience online first, and then find the projects you are
 | 26 | AI Video Creation Hub | Using AI to synthesize video materials | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
 | 27 | AI Resume Creation | Using AI to create high-quality resumes | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
 | 28 | AI Talking Photo | Using AI to make photos speak up | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
+| 29 | AI Financial Information Assistant | Quickly obtain stock data and financial information using AI | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -503,5 +504,21 @@ Using AI to make photos speak up
 [saas-url57]: https://github.com/302ai/302_lipsync
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
 <a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话en.png"/></a>
+
+## 29. AI Financial Information Assistant ##
+
+Quickly obtain stock data and financial information using AI
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image58]][saas-url58]
+[![Saas][Saas-image59]][saas-url59]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url58]: https://302.ai/en/tools/finance/
+[saas-image58]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url59]: https://github.com/302ai/302_financial_information_assistant
+[saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
+<a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手en.png"/></a>
 
 ### Weekly updates, stay tuned.

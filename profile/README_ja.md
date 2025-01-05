@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする28のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする29のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -51,6 +51,7 @@
 | 26 | AI動画素材クリエイティブステーション | AIを用いたビデオ素材の合成 | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
 | 27 | AI履歴書作成 | AIを使った高品質履歴書の作成 | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
 | 28 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
+| 29 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -502,5 +503,21 @@ AIを使って写真に話しかける
 [saas-url57]: https://github.com/302ai/302_lipsync
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
 <a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话jp.png"/></a>
+
+## 29. AI金融情報アシスタント ##
+
+AIを使って株式データと財経情報を迅速に取得する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image58]][saas-url58]
+[![Saas][Saas-image59]][saas-url59]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url58]: https://302.ai/ja/tools/finance/
+[saas-image58]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url59]: https://github.com/302ai/302_financial_information_assistant
+[saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
+<a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手jp.png"/></a>
 
 ### 毎週更新、ご注目ください

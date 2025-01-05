@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了28个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了29个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -49,6 +49,7 @@
 | 26 | AI视频素材创意站 | 使用AI合成视频素材 | [链接](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
 | 27 | AI简历制作 | 使用AI制作高质量简历 | [链接](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
 | 28 | AI照片说话 | 使用AI让照片开口说话 | [链接](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
+| 29 | AI财讯助手 | 使用AI快速获取股票数据和财经资讯 | [链接](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -500,5 +501,21 @@ AI版Word
 [saas-url57]: https://github.com/302ai/302_lipsync
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
 <a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话.png"/></a>
+
+## 29. AI财讯助手 ##
+
+使用AI快速获取股票数据和财经资讯
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image58]][saas-url58]
+[![Saas][Saas-image59]][saas-url59]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url58]: https://302.ai/tools/finance/
+[saas-image58]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url59]: https://github.com/302ai/302_financial_information_assistant
+[saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
+<a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手.png"/></a>
 
 ### 每周更新，保持关注。
