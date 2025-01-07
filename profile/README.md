@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 29 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 30 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -51,6 +51,7 @@ It is recommended to experience online first, and then find the projects you are
 | 27 | AI Resume Creation | Using AI to create high-quality resumes | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
 | 28 | AI Talking Photo | Using AI to make photos speak up | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 | 29 | AI Financial Information Assistant | Quickly obtain stock data and financial information using AI | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
+| 30 | AI Video Deep Translation | Using AI to recognize and transcribe speech and intelligently burn subtitles | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -520,5 +521,21 @@ Quickly obtain stock data and financial information using AI
 [saas-url59]: https://github.com/302ai/302_financial_information_assistant
 [saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
 <a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手en.png"/></a>
+
+## 30. AI Video Deep Translation ##
+
+Using AI to recognize and transcribe speech and intelligently burn subtitles
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image60]][saas-url60]
+[![Saas][Saas-image61]][saas-url61]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url60]: https://302.ai/en/tools/dubbing/
+[saas-image60]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
+[saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
+<a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译en.png"/></a>
 
 ### Weekly updates, stay tuned.

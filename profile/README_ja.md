@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする29のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする30のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -52,6 +52,7 @@
 | 27 | AI履歴書作成 | AIを使った高品質履歴書の作成 | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
 | 28 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 | 29 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
+| 30 | AIビデオ深度翻訳 | AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -519,5 +520,20 @@ AIを使って株式データと財経情報を迅速に取得する
 [saas-url59]: https://github.com/302ai/302_financial_information_assistant
 [saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
 <a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手jp.png"/></a>
+
+## 30. AIビデオ深度翻訳 ##
+
+AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image60]][saas-url60]
+[![Saas][Saas-image61]][saas-url61]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url60]: https://302.ai/ja/tools/dubbing/
+[saas-image60]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
+[saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
+<a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
