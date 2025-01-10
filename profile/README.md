@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 30 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 31 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -52,7 +52,7 @@ It is recommended to experience online first, and then find the projects you are
 | 28 | AI Talking Photo | Using AI to make photos speak up | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 | 29 | AI Financial Information Assistant | Quickly obtain stock data and financial information using AI | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 | 30 | AI Video Deep Translation | Using AI to recognize and transcribe speech and intelligently burn subtitles | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
-
+| 31 | AI Red Pocket Cover Generation | Using AI to generate red pocket cover images or videos | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -537,5 +537,21 @@ Using AI to recognize and transcribe speech and intelligently burn subtitles
 [saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
 [saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
 <a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译en.png"/></a>
+
+## 31. AI Red Pocket Cover Generation ##
+
+Using AI to generate red pocket cover images or videos
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image62]][saas-url62]
+[![Saas][Saas-image63]][saas-url63]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url62]: https://302.ai/en/tools/rpcg/
+[saas-image62]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url63]: https://github.com/302ai/302_red_packet_generation
+[saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
+<a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包en.png"/></a>
 
 ### Weekly updates, stay tuned.

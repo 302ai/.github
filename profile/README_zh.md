@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了30个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了31个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -51,6 +51,7 @@
 | 28 | AI照片说话 | 使用AI让照片开口说话 | [链接](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 | 29 | AI财讯助手 | 使用AI快速获取股票数据和财经资讯 | [链接](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 | 30 | AI视频深度翻译 | 使用AI识别和转录语音并智能烧录字幕 | [链接](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
+| 31 | AI红包封面生成 | 使用AI生成红包封面图或视频 | [链接](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -534,5 +535,21 @@ AI版Word
 [saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
 [saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
 <a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译.png"/></a>
+
+## 31. AI红包封面生成 ##
+
+使用AI生成红包封面图或视频
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image62]][saas-url62]
+[![Saas][Saas-image63]][saas-url63]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url62]: https://302.ai/tools/rpcg/
+[saas-image62]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url63]: https://github.com/302ai/302_red_packet_generation
+[saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
+<a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包.png"/></a>
 
 ### 每周更新，保持关注。

@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする30のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする31のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -53,6 +53,7 @@
 | 28 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
 | 29 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 | 30 | AIビデオ深度翻訳 | AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
+| 31 | AI中国紅包生成 | AIを使って红包のカバーデザインとビデオを作成する | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -535,5 +536,20 @@ AIを使用した音声の認識と書き起こし、字幕のインテリジェ
 [saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
 [saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
 <a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译jp.png"/></a> 
+
+## 31. AI中国紅包生成 ##
+
+AIを使って红包のカバーデザインとビデオを作成する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image62]][saas-url62]
+[![Saas][Saas-image63]][saas-url63]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url62]: https://302.ai/ja/tools/rpcg/
+[saas-image62]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url63]: https://github.com/302ai/302_red_packet_generation
+[saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
+<a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
