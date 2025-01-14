@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 31 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 32 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -53,6 +53,7 @@ It is recommended to experience online first, and then find the projects you are
 | 29 | AI Financial Information Assistant | Quickly obtain stock data and financial information using AI | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 | 30 | AI Video Deep Translation | Using AI to recognize and transcribe speech and intelligently burn subtitles | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
 | 31 | AI Red Pocket Cover Generation | Using AI to generate red pocket cover images or videos | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
+| 32 | AI Virtual Try On | Using AI to virtual try on | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -553,5 +554,21 @@ Using AI to generate red pocket cover images or videos
 [saas-url63]: https://github.com/302ai/302_red_packet_generation
 [saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
 <a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包en.png"/></a>
+
+## 32. AI Virtual Try On ##
+
+Using AI to virtual try on
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image64]][saas-url64]
+[![Saas][Saas-image65]][saas-url65]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url64]: https://302.ai/en/tools/tryon/
+[saas-image64]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url65]: https://github.com/302ai/302_virtual_try_on
+[saas-image65]: https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social
+<a href="https://github.com/302ai/302_virtual_try_on"><img src="/AI换衣en.png"/></a>
 
 ### Weekly updates, stay tuned.

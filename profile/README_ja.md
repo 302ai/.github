@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする31のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする32のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -54,6 +54,7 @@
 | 29 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
 | 30 | AIビデオ深度翻訳 | AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
 | 31 | AI中国紅包生成 | AIを使って红包のカバーデザインとビデオを作成する | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
+| 32 | AIバーチャル試着 | AIを使ってバーチャル試着 | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 
 ## 1. 302-Dev-Kit ##
 
@@ -551,5 +552,20 @@ AIを使って红包のカバーデザインとビデオを作成する
 [saas-url63]: https://github.com/302ai/302_red_packet_generation
 [saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
 <a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包jp.png"/></a> 
+
+## 32. AIバーチャル試着 ##
+
+AIを使ってバーチャル試着する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image64]][saas-url64]
+[![Saas][Saas-image65]][saas-url65]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url64]: https://302.ai/ja/tools/tryon/
+[saas-image64]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url65]: https://github.com/302ai/302_virtual_try_on
+[saas-image65]: https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social
+<a href="https://github.com/302ai/302_virtual_try_on"><img src="/AI换衣jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
