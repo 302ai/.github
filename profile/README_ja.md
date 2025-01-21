@@ -18,45 +18,60 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする32のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする34のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
 |---|----------|------|--------|-------|
-| 1 | 302-Dev-Kit | すべてのツールの初期開発テンプレート | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
-| 2 | 302-LLM-Playground | 強力なLLM Playground | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
-| 3 | AI画像ツールボックス | 20種類の画像ツールをサポート | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
-| 4 | AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
-| 5 | AI動画ジェネレーター | 複数の動画モデルをサポート | [Link](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
-| 6 | AIリアルタイム動画翻訳 | AI が動画を翻訳しオンラインで再生 | [Link](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
-| 7 | AI音声/動画要約 | ワンクリックで動画内容を要約 | [Link](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
-| 8 | AI画像翻訳 | 画像内のテキストを翻訳し新しい画像を生成 | [Link](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
-| 9 | AI論文作成 | オンライン情報を検索しAIで長文の論文を生成 | [Link](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
-| 10 | AI音声ジェネレーター | 複数のTTS-APIをサポート | [Link](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
-| 11 | AI音声通話 | リアルタイムAPIを使用したリアルタイム音声チャット | [Link](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
-| 12 | AIウェブページジェネレーター | テキストまたは画像入力からReactアプリケーションを生成 | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
-| 13 | AIポッドキャストジェネレーター | AI音声ポッドキャストを迅速に生成 | [Link](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
-| 14 | AIコピーライティングアシスタント | プロンプトに基づいてコピーを迅速に最適化 | [Link](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
-| 15 | AI古写真修復 | 古い写真を拡大、色付け、動画化 | [Link](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
-| 16 | AI電子商取引コピーライティングアシスタント | プロンプトに基づいて電子商取引のコピーを素早く生成 | [Link](https://github.com/302ai/302_e_commerce_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social) |
-| 17 | AIウェブページ要約 | ワンクリックでウェブページの内容を要約 | [Link](https://github.com/302ai/302_webpage_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social) |
-| 18 | AI肖像生成 | さまざまなスタイルの自撮り肖像を作成 | [Link](https://github.com/302ai/302_avatar_maker) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social) |
-| 19 | AI Eコマースシーン画像生成 | Eコマース製品またはモデルのシーン画像の生成 | [Link](https://github.com/302ai/302_ecom_image_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social) |
-| 20 | AI 証明写真生成 | ワンクリックで証明写真を生成 | [Link](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
-| 21 | AI学術検索 | AIを使用して学術論文を検索および分析 | [Link](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
-| 22 | AI特許検索 | AIを使用して特許を検索および分析 | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
-| 23 | AIドキュメントエディター | AI版Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
-| 24 | AI音楽制作 | AIを使用して音楽や歌を生成する | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
-| 25 | AIホワイトボード | AIを使って素早くホワイトボードにスケッチを作成しよう | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
-| 26 | AI動画素材クリエイティブステーション | AIを用いたビデオ素材の合成 | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
-| 27 | AI履歴書作成 | AIを使った高品質履歴書の作成 | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
-| 28 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
-| 29 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
-| 30 | AIビデオ深度翻訳 | AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
-| 31 | AI中国紅包生成 | AIを使って红包のカバーデザインとビデオを作成する | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
-| 32 | AIバーチャル試着 | AIを使ってバーチャル試着 | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
+| 1 | 302-AI-SDK | これはVercel AI SDKと統合された302 AI公式プロバイダSDKです | [Link](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
+| 2 | 302-Dev-Kit | すべてのツールの初期開発テンプレート | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 3 | 302-LLM-Playground | 強力なLLM Playground | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
+| 4 | AI画像ツールボックス | 20種類の画像ツールをサポート | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
+| 5 | AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
+| 6 | AI動画ジェネレーター | 複数の動画モデルをサポート | [Link](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
+| 7 | AIリアルタイム動画翻訳 | AI が動画を翻訳しオンラインで再生 | [Link](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
+| 8 | AI音声/動画要約 | ワンクリックで動画内容を要約 | [Link](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
+| 9 | AI画像翻訳 | 画像内のテキストを翻訳し新しい画像を生成 | [Link](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
+| 10 | AI論文作成 | オンライン情報を検索しAIで長文の論文を生成 | [Link](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
+| 11 | AI音声ジェネレーター | 複数のTTS-APIをサポート | [Link](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
+| 12 | AI音声通話 | リアルタイムAPIを使用したリアルタイム音声チャット | [Link](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
+| 13 | AIウェブページジェネレーター | テキストまたは画像入力からReactアプリケーションを生成 | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| 14 | AIポッドキャストジェネレーター | AI音声ポッドキャストを迅速に生成 | [Link](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
+| 15 | AIコピーライティングアシスタント | プロンプトに基づいてコピーを迅速に最適化 | [Link](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
+| 16 | AI古写真修復 | 古い写真を拡大、色付け、動画化 | [Link](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
+| 17 | AI電子商取引コピーライティングアシスタント | プロンプトに基づいて電子商取引のコピーを素早く生成 | [Link](https://github.com/302ai/302_e_commerce_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social) |
+| 18 | AIウェブページ要約 | ワンクリックでウェブページの内容を要約 | [Link](https://github.com/302ai/302_webpage_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social) |
+| 19 | AI肖像生成 | さまざまなスタイルの自撮り肖像を作成 | [Link](https://github.com/302ai/302_avatar_maker) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social) |
+| 20 | AI Eコマースシーン画像生成 | Eコマース製品またはモデルのシーン画像の生成 | [Link](https://github.com/302ai/302_ecom_image_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social) |
+| 21 | AI 証明写真生成 | ワンクリックで証明写真を生成 | [Link](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
+| 22 | AI学術検索 | AIを使用して学術論文を検索および分析 | [Link](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
+| 23 | AI特許検索 | AIを使用して特許を検索および分析 | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+| 24 | AIドキュメントエディター | AI版Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
+| 25 | AI音楽制作 | AIを使用して音楽や歌を生成する | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
+| 26 | AIホワイトボード | AIを使って素早くホワイトボードにスケッチを作成しよう | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
+| 27 | AI動画素材クリエイティブステーション | AIを用いたビデオ素材の合成 | [Link](https://github.com/302ai/302_video_creation_hub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social) |
+| 28 | AI履歴書作成 | AIを使った高品質履歴書の作成 | [Link](https://github.com/302ai/302_resume) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_resume?style=social) |
+| 29 | AIトーキング写真 | AIを使って写真に話しかける | [Link](https://github.com/302ai/302_lipsync) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lipsync?style=social) |
+| 30 | AI金融情報アシスタント | AIを使って株式データと財経情報を迅速に取得する | [Link](https://github.com/302ai/302_financial_information_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social) |
+| 31 | AIビデオ深度翻訳 | AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし | [Link](https://github.com/302ai/302_ai_deep_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social) |
+| 32 | AI中国紅包生成 | AIを使って红包のカバーデザインとビデオを作成する | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
+| 33 | AIバーチャル試着 | AIを使ってバーチャル試着 | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
+| 34 | AI 解答機 | AI を使用して問題を解答する | [Link](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 
-## 1. 302-Dev-Kit ##
+## 1. 302-AI-SDK ##
+
+これはVercel AI SDKと統合された302 AI公式プロバイダSDKです
+
+[![Saas][Saas-image66]][saas-url66]
+[![Saas][Saas-image67]][saas-url67]
+
+[saas-url66]: https://302.ai/ja/tools/
+[saas-image66]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url67]: https://github.com/302ai/ai-sdk
+[saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
+<a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
+
+## 2. 302-Dev-Kit ##
 
 すべてのツールの初期開発テンプレート
 
@@ -72,7 +87,7 @@
 
 <a href="https://github.com/302ai/302-Dev-Kit"><img src="https://github.com/302ai/.github/blob/main/302-dev-kit.png?raw=true"/></a>
 
-## 2. 302-LLM-Playground ##
+## 3. 302-LLM-Playground ##
 
 強力なLLM Playground
 
@@ -89,7 +104,7 @@
  
 <a href="https://github.com/302ai/302_llm_playground"><img src="https://github.com/302ai/.github/blob/main/302-LLM-%E6%B8%B8%E4%B9%90%E5%9C%BAjp.png?raw=true"/></a>
 
-## 3. AI画像ツールボックス ##
+## 4. AI画像ツールボックス ##
 
 20種類の画像ツールをサポート
 
@@ -106,7 +121,7 @@
 
 <a href="https://github.com/302ai/302_image_toolbox"><img src="https://github.com/302ai/.github/blob/main/%E5%9B%BE%E7%89%87%E5%B7%A5%E5%85%B7%E7%AE%B1jp.png?raw=true"/></a>
 
-## 4. AIプロンプトエキスパート ##
+## 5. AIプロンプトエキスパート ##
 
 構造化されたプロンプトを生成しテスト
 
@@ -122,7 +137,7 @@
 [saas-image9]: https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social
 <a href="https://github.com/302ai/302_prompt_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%B8%93%E5%AE%B6jp.png?raw=true"/></a>
 
-## 5. AI動画ジェネレーター ##
+## 6. AI動画ジェネレーター ##
 
 複数の動画モデルをサポート
 
@@ -138,7 +153,7 @@
 [saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
 <a href="https://github.com/302ai/302_video_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
 
-## 6. AIリアルタイム動画翻訳 ##
+## 7. AIリアルタイム動画翻訳 ##
 
 AI が動画を翻訳しオンラインで再生
 
@@ -154,7 +169,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image13]: https://img.shields.io/github/stars/302ai/302_video_translation?style=social
 <a href="https://github.com/302ai/302_video_translation"><img src="https://github.com/302ai/.github/blob/main/%E8%A7%86%E9%A2%91%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91jp.png?raw=true"/></a>
 
-## 7. AI音声/動画要約 ##
+## 8. AI音声/動画要約 ##
 
 ワンクリックで動画内容を要約
 
@@ -170,7 +185,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
 <a href="https://github.com/302ai/302_video_summary"><img src="/AI音视频总结jp.png"/></a>
 
-## 8. AI画像翻訳 ##
+## 9. AI画像翻訳 ##
 
 画像内のテキストを翻訳し新しい画像を生成
 
@@ -186,7 +201,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image17]: https://img.shields.io/github/stars/302ai/302_image_translation?style=social
 <a href="https://github.com/302ai/302_image_translation"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91jp.png?raw=true"/></a>
 
-## 9. AI論文作成 ##
+## 10. AI論文作成 ##
 
 オンライン情報を検索しAIで長文の論文を生成
 
@@ -202,7 +217,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image19]: https://img.shields.io/github/stars/302ai/302_paper_writting?style=social
 <a href="https://github.com/302ai/302_paper_writting"><img src="https://github.com/302ai/.github/blob/main/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9Cjp.png?raw=true"/></a>
 
-## 10. AI音声ジェネレーター ##
+## 11. AI音声ジェネレーター ##
 
 複数のTTS-APIをサポート
 
@@ -218,7 +233,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image21]: https://img.shields.io/github/stars/302ai/302_tts?style=social
 <a href="https://github.com/302ai/302_tts"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
 
-## 11. AI音声通話 ##
+## 12. AI音声通話 ##
 
 リアルタイムAPIを使用したリアルタイム音声チャット
 
@@ -234,7 +249,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
 <a href="https://github.com/302ai/302_voice_call"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AF%9Djp.png?raw=true"/></a>
 
-## 12. AIウェブページジェネレーター ##
+## 13. AIウェブページジェネレーター ##
 
 テキストまたは画像入力からReactアプリケーションを生成
 
@@ -250,7 +265,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image25]: https://img.shields.io/github/stars/302ai/302_coder_generator?style=social
 <a href="https://github.com/302ai/302_coder_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%BD%91%E9%A1%B5%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
 
-## 13. AIポッドキャストジェネレーター ##
+## 14. AIポッドキャストジェネレーター ##
 
 AI音声ポッドキャストを迅速に生成
 
@@ -266,7 +281,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
 <a href="https://github.com/302ai/302_podcast_generator"><img src="/AI音视频总结jp.png"/></a>
 
-## 14. AIコピーライティングアシスタント ##
+## 15. AIコピーライティングアシスタント ##
 
 プロンプトに基づいてコピーを迅速に最適化
 
@@ -282,7 +297,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image29]: https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social
 <a href="https://github.com/302ai/302_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Bjp.png?raw=true"/></a>
 
-## 15. AI電子商取引コピーライティングアシスタント ##
+## 16. AI電子商取引コピーライティングアシスタント ##
 
 プロンプトに基づいて電子商取引のコピーを素早く生成
 
@@ -298,7 +313,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
 <a href="https://github.com/302ai/302_e_commerce_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Bjp.png?raw=true"/></a>
 
-## 16. AI古写真修復 ##
+## 17. AI古写真修復 ##
 
 古い写真を拡大、色付け、動画化
 
@@ -314,7 +329,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image33]: https://img.shields.io/github/stars/302ai/302_photo_restore?style=social
 <a href="https://github.com/302ai/302_photo_restore"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8Djp.png?raw=true"/></a>
 
-## 17. AIウェブページ要約 ##
+## 18. AIウェブページ要約 ##
 
 ワンクリックでウェブページの内容を要約
 
@@ -330,7 +345,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image35]: https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social
 <a href="https://github.com/302ai/302_webpage_summary"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%BD%91%E9%A1%B5%E6%80%BB%E7%BB%93jp.png?raw=true"/></a>
 
-## 18. AI肖像生成 ##
+## 19. AI肖像生成 ##
 
 さまざまなスタイルの自撮り肖像を作成
 
@@ -346,7 +361,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image37]: https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social
 <a href="https://github.com/302ai/302_avatar_maker"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%A4%B4%E5%83%8F%E5%88%B6%E4%BD%9Cjp.png?raw=true"/></a>
 
-## 19. AI Eコマースシーン画像生成 ##
+## 20. AI Eコマースシーン画像生成 ##
 
 Eコマース製品またはモデルのシーン画像の生成
 
@@ -362,7 +377,7 @@ Eコマース製品またはモデルのシーン画像の生成
 [saas-image39]: https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social
 <a href="https://github.com/302ai/302_ecom_image_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E5%9C%BA%E6%99%AF%E5%9B%BE%E7%94%9F%E6%88%90jp.png?raw=true"/></a>
 
-## 20. AI 証明写真生成 ##
+## 21. AI 証明写真生成 ##
 
 ワンクリックで証明写真を生成
 
@@ -378,7 +393,7 @@ Eコマース製品またはモデルのシーン画像の生成
 [saas-image41]: https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social
 <a href="https://github.com/302ai/302_id_photo_generation"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%81%E4%BB%B6%E7%85%A7%E7%94%9F%E6%88%90jp.png?raw=true"/></a>
 
-## 21. AI学術検索 ##
+## 22. AI学術検索 ##
 
 AIを使用して学術論文を検索および分析
 
@@ -394,7 +409,7 @@ AIを使用して学術論文を検索および分析
 [saas-image43]: https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social
 <a href="https://github.com/302ai/302_academic_thesis_search"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E6%90%9C%E7%B4%A2jp.png?raw=true"/></a>
 
-## 22. AI特許検索 ##
+## 23. AI特許検索 ##
 
 AIを使用して特許を検索および分析
 
@@ -410,7 +425,7 @@ AIを使用して特許を検索および分析
 [saas-image45]: https://img.shields.io/github/stars/302ai/302_patent_search?style=social
 <a href="https://github.com/302ai/302_patent_search"><img src="https://github.com/302ai/.github/blob/main/AI%20%E4%B8%93%E5%88%A9%E6%90%9C%E7%B4%A2jp.png?raw=true"/></a>
 
-## 23. AIドキュメントエディター ##
+## 24. AIドキュメントエディター ##
 
 AI版Word
 
@@ -427,7 +442,7 @@ AI版Word
 <a href="https://github.com/302ai/302_document_editor"><img src="https://github.com/302ai/.github/blob/main/%E6%96%87%E6%A1%A3%E7%BC%96%E8%BE%91%E5%99%A8jp.png?raw=true"/></a>
 
 
-## 24. AI音楽制作 ##
+## 25. AI音楽制作 ##
 
 AIを使用して音楽や歌を生成する
 
@@ -443,7 +458,7 @@ AIを使用して音楽や歌を生成する
 [saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
 <a href="https://github.com/302ai/302_music_generator"><img src="https://github.com/302ai/302_music_generator/blob/main/docs/AI%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9Cjp.png?raw=true"/></a>
 
-## 25. AIホワイトボード ##
+## 26. AIホワイトボード ##
 
 AIを使って素早くホワイトボードにスケッチを作成しよう
 
@@ -459,7 +474,7 @@ AIを使って素早くホワイトボードにスケッチを作成しよう
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
 <a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/302_Whiteboard_jp.png"/></a>
 
-## 26. AI動画素材クリエイティブステーション ##
+## 27. AI動画素材クリエイティブステーション ##
 
 AIを用いたビデオ素材の合成
 
@@ -475,7 +490,7 @@ AIを用いたビデオ素材の合成
 [saas-image53]: https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social
 <a href="https://github.com/302ai/302_video_creation_hub"><img src="/AI视频素材创意站jp.png"/></a>
 
-## 27. AI履歴書作成 ##
+## 28. AI履歴書作成 ##
 
 AIを使った高品質履歴書の作成
 
@@ -491,7 +506,7 @@ AIを使った高品質履歴書の作成
 [saas-image55]: https://img.shields.io/github/stars/302ai/302_resume?style=social
 <a href="https://github.com/302ai/302_resume"><img src="/AI简历制作jp.png"/></a>
 
-## 28. AIトーキング写真 ##
+## 29. AIトーキング写真 ##
 
 AIを使って写真に話しかける
 
@@ -507,7 +522,7 @@ AIを使って写真に話しかける
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
 <a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话jp.png"/></a>
 
-## 29. AI金融情報アシスタント ##
+## 30. AI金融情報アシスタント ##
 
 AIを使って株式データと財経情報を迅速に取得する
 
@@ -523,7 +538,7 @@ AIを使って株式データと財経情報を迅速に取得する
 [saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
 <a href="https://github.com/302ai/302_financial_information_assistant"><img src="/AI财讯助手jp.png"/></a>
 
-## 30. AIビデオ深度翻訳 ##
+## 31. AIビデオ深度翻訳 ##
 
 AIを使用した音声の認識と書き起こし、字幕のインテリジェントな書き起こし
 
@@ -538,7 +553,7 @@ AIを使用した音声の認識と書き起こし、字幕のインテリジェ
 [saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
 <a href="https://github.com/302ai/302_ai_deep_video_translation"><img src="/AI视频深度翻译jp.png"/></a> 
 
-## 31. AI中国紅包生成 ##
+## 32. AI中国紅包生成 ##
 
 AIを使って红包のカバーデザインとビデオを作成する
 
@@ -553,7 +568,7 @@ AIを使って红包のカバーデザインとビデオを作成する
 [saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
 <a href="https://github.com/302ai/302_red_packet_generation"><img src="/红包jp.png"/></a> 
 
-## 32. AIバーチャル試着 ##
+## 33. AIバーチャル試着 ##
 
 AIを使ってバーチャル試着する
 
@@ -567,5 +582,20 @@ AIを使ってバーチャル試着する
 [saas-url65]: https://github.com/302ai/302_virtual_try_on
 [saas-image65]: https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social
 <a href="https://github.com/302ai/302_virtual_try_on"><img src="/AI换衣jp.png"/></a> 
+
+## 34. AI 解答機 ##
+
+AI を使用して問題を解答する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image68]][saas-url68]
+[![Saas][Saas-image69]][saas-url69]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url68]: https://302.ai/ja/tools/answer/
+[saas-image68]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url69]: https://github.com/302ai/302_ai_answer_machine
+[saas-image69]: https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social
+<a href="https://github.com/302ai/302_ai_answer_machine"><img src="/AI答题机jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
