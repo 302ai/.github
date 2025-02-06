@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了34个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了35个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -55,6 +55,7 @@
 | 32 | AI红包封面生成 | 使用AI生成红包封面图或视频 | [链接](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
 | 33 | AI换衣 | 使用AI进行虚拟试穿 | [链接](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 | 34 | AI答题机 | 使用AI进行题目解答 | [链接](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
+| 35 | AI矢量图生成 | 使用AI生成矢量图或根据矢量图生成视频 | [链接](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -600,5 +601,21 @@ AI版Word
 [saas-url69]: https://github.com/302ai/302_ai_answer_machine
 [saas-image69]: https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social
 <a href="https://github.com/302ai/302_ai_answer_machine"><img src="/AI答题机.png"/></a>
+
+## 35. AI矢量图生成  ##
+
+使用AI生成矢量图或根据矢量图生成视频
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image70]][saas-url70]
+[![Saas][Saas-image71]][saas-url71]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url70]: https://302.ai/tools/vector/
+[saas-image70]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url71]: https://github.com/302ai/302_vector_graphics_generation
+[saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
+<a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/矢量图生成.png"/></a>
 
 ### 每周更新，保持关注。

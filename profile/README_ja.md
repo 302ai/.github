@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする34のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする35のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -57,6 +57,7 @@
 | 32 | AI中国紅包生成 | AIを使って红包のカバーデザインとビデオを作成する | [Link](https://github.com/302ai/302_red_packet_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social) |
 | 33 | AIバーチャル試着 | AIを使ってバーチャル試着 | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 | 34 | AI 解答機 | AI を使用して問題を解答する | [Link](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
+| 35 | AI ベクター画像生成 | AI を使用してベクトルグラフィックを生成する、またはベクトルグラフィックに基づいてビデオを生成する | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -597,5 +598,20 @@ AI を使用して問題を解答する
 [saas-url69]: https://github.com/302ai/302_ai_answer_machine
 [saas-image69]: https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social
 <a href="https://github.com/302ai/302_ai_answer_machine"><img src="/AI答题机jp.png"/></a> 
+
+## 35. AI ベクター画像生成 ##
+
+AI を使用してベクター画像を生成する、またはベクター画像に基づいてビデオを生成する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image70]][saas-url70]
+[![Saas][Saas-image71]][saas-url71]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url70]: https://302.ai/ja/tools/vector/
+[saas-image70]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url71]: https://github.com/302ai/302_vector_graphics_generation
+[saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
+<a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/矢量图生成jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
