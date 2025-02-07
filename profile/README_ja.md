@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする35のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする36のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -58,7 +58,7 @@
 | 33 | AIバーチャル試着 | AIを使ってバーチャル試着 | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 | 34 | AI 解答機 | AI を使用して問題を解答する | [Link](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 | 35 | AI ベクター画像生成 | AI を使用してベクトルグラフィックを生成する、またはベクトルグラフィックに基づいてビデオを生成する | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) 
-
+| 36 | PDF万能ツールボックス | 包括的なPDFアシスタント、すべてのPDFニーズに対するワンストップソリューション | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) 
 ## 1. 302-AI-SDK ##
 
 これはVercel AI SDKと統合された302 AI公式プロバイダSDKです
@@ -613,5 +613,20 @@ AI を使用してベクター画像を生成する、またはベクター画�
 [saas-url71]: https://github.com/302ai/302_vector_graphics_generation
 [saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
 <a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/矢量图生成jp.png"/></a> 
+
+## 36. PDF万能ツールボックス ##
+
+包括的なPDFアシスタント、すべてのPDFニーズに対するワンストップソリューション
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image72]][saas-url72]
+[![Saas][Saas-image73]][saas-url73]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url72]: https://302.ai/ja/tools/pdftranslate/
+[saas-image72]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url73]: https://github.com/302ai/302_pdf_all_in_one_toolbox
+[saas-image73]: https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social
+<a href="https://github.com/302ai/302_pdf_all_in_one_toolbox"><img src="/PDF工具箱jp.png"/></a> 
 
 ### 毎週更新、ご注目ください

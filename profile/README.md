@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 35 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 36 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -57,6 +57,7 @@ It is recommended to experience online first, and then find the projects you are
 | 33 | AI Virtual Try On | Using AI to virtual try on | [Link](https://github.com/302ai/302_virtual_try_on) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social) |
 | 34 | AI Answer Machine | Use AI to solve questions | [Link](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 | 35 | AI Vector Graphics Generation | Use AI to generate vector graphics or generate videos based on vector graphics | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
+| 36 | PDF All-in-One Toolbox | Comprehensive PDF Assistant，One-stop solution for all PDF needs. | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -618,5 +619,21 @@ Use AI to generate vector graphics or generate videos based on vector graphics
 [saas-url71]: https://github.com/302ai/302_vector_graphics_generation
 [saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
 <a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/矢量图生成en.png"/></a>
+
+## 36. PDF All-in-One Toolbox ##
+
+Comprehensive PDF Assistant, One-stop solution for all PDF needs.
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image72]][saas-url72]
+[![Saas][Saas-image73]][saas-url73]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url72]: https://302.ai/en/tools/pdftranslate/
+[saas-image72]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url73]: https://github.com/302ai/302_pdf_all_in_one_toolbox
+[saas-image73]: https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social
+<a href="https://github.com/302ai/302_pdf_all_in_one_toolbox"><img src="/PDF工具箱en.png"/></a>
 
 ### Weekly updates, stay tuned.
