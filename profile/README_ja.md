@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする36のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする37のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -59,6 +59,8 @@
 | 34 | AI 解答機 | AI を使用して問題を解答する | [Link](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 | 35 | AI ベクター画像生成 | AI を使用してベクトルグラフィックを生成する、またはベクトルグラフィックに基づいてビデオを生成する | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) 
 | 36 | PDF万能ツールボックス | 包括的なPDFアシスタント、すべてのPDFニーズに対するワンストップソリューション | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) 
+| 37 | AI 3D モデリング | AI を使って画像を 3D モデルに変換する | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) 
+
 ## 1. 302-AI-SDK ##
 
 これはVercel AI SDKと統合された302 AI公式プロバイダSDKです
@@ -628,5 +630,20 @@ AI を使用してベクター画像を生成する、またはベクター画�
 [saas-url73]: https://github.com/302ai/302_pdf_all_in_one_toolbox
 [saas-image73]: https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social
 <a href="https://github.com/302ai/302_pdf_all_in_one_toolbox"><img src="/PDF工具箱jp.png"/></a> 
+
+## 37. AI 3D モデリング ##
+
+AI を使って画像を 3D モデルに変換する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image74]][saas-url74]
+[![Saas][Saas-image75]][saas-url75]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url74]: https://302.ai/ja/tools/3d/
+[saas-image74]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url75]: https://github.com/302ai/302_ai_3d_modeling
+[saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
+<a href="https://github.com/302ai/302_ai_3d_modeling"><img src="/3D建模jp.png"/></a> 
 
 ### 毎週更新、ご注目ください

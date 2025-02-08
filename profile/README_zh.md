@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了36个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了37个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -57,6 +57,8 @@
 | 34 | AI答题机 | 使用AI进行题目解答 | [链接](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 | 35 | AI矢量图生成 | 使用AI生成矢量图或根据矢量图生成视频 | [链接](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
 | 36 | PDF全能工具箱 | 全方位PDF助手，一站式解决各种PDF需求 | [链接](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
+| 37 | AI 3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
+
 ## 1. 302-AI-SDK ##
 
 这是与Vercel AI SDK集成的302AI官方提供商SDK
@@ -633,5 +635,21 @@ AI版Word
 [saas-url73]: https://github.com/302ai/302_pdf_all_in_one_toolbox
 [saas-image73]: https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social
 <a href="https://github.com/302ai/302_pdf_all_in_one_toolbox"><img src="/PDF工具箱.png"/></a>
+
+## 37. AI 3D建模  ##
+
+使用AI将图片转成3D模型
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image74]][saas-url74]
+[![Saas][Saas-image75]][saas-url75]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url74]: https://302.ai/tools/3d/
+[saas-image74]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url75]: https://github.com/302ai/302_ai_3d_modeling
+[saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
+<a href="https://github.com/302ai/302_ai_3d_modeling"><img src="/3D建模.png"/></a>
 
 ### 每周更新，保持关注。
