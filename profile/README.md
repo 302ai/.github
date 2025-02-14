@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 37 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 38 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -34,7 +34,7 @@ It is recommended to experience online first, and then find the projects you are
 | 10 | AI Paper Writing | Searches online information and generates long papers with AI | [Link](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
 | 11 | AI Voice Generator | Supports multiple TTS-APIs | [Link](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
 | 12 | AI Voice Call | Real-time voice chat using real-time API | [Link](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
-| 13 | AI Webpage Generator | Generates React applications from text or image input | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| 13 | AI Web Page Generator 2.0 | Generate high-quality web pages with one click | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
 | 14 | AI Podcast Generator | Quickly generates AI voice podcasts | [Link](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
 | 15 | AI Copywriting Assistant | Quickly optimizes copy based on prompts | [Link](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
 | 16 | AI Old Photo Restoration | Enlarges, colorizes, and generates videos from old photos | [Link](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
@@ -59,6 +59,7 @@ It is recommended to experience online first, and then find the projects you are
 | 35 | AI Vector Graphics Generation | Use AI to generate vector graphics or generate videos based on vector graphics | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
 | 36 | PDF All-in-One Toolbox | Comprehensive PDF Assistant，One-stop solution for all PDF needs | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
 | 37 | AI 3D Modeling | Use AI to convert images into 3D models | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
+| 38 | AI Web Page Generator | Create web pages easily without any programming knowledge | [Link](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -251,9 +252,9 @@ Real-time voice chat using real-time API
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
 <a href="https://github.com/302ai/302_voice_call"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AF%9Den.png?raw=true"/></a>
 
-## 13. AI Webpage Generator ##
+## 13. AI Web Page Generator 2.0 ##
 
-Generates React applications from text or image input 
+Generate high-quality web pages with one click
 
 [![Saas][Saas-image]][saas-url]
 [![Saas][Saas-image24]][saas-url24]
@@ -652,5 +653,21 @@ Use AI to convert images into 3D models
 [saas-url75]: https://github.com/302ai/302_ai_3d_modeling
 [saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
 <a href="https://github.com/302ai/302_ai_3d_modeling"><img src="/3D建模en.png"/></a>
+
+## 38. AI Web Page Generator ##
+
+Create web pages easily without any programming knowledge
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image76]][saas-url76]
+[![Saas][Saas-image77]][saas-url77]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url76]: https://302.ai/en/tools/front/
+[saas-image76]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url77]: https://github.com/302ai/302_web_page_generator
+[saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
+<a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器en.png"/></a>
 
 ### Weekly updates, stay tuned.

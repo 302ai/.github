@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了37个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了38个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -33,7 +33,7 @@
 | 10 | AI论文写作 | 搜索在线信息并用AI生成长篇论文 | [链接](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
 | 11 | AI语音生成器 | 支持多种TTS-API | [链接](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
 | 12 | AI语音通话 | 使用实时API进行实时语音聊天 | [链接](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
-| 13 | AI网页生成器 | 从文本或图像输入生成React应用 | [链接](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| 13 | AI网页生成器2.0 | 一键生成高质量的网页 | [链接](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
 | 14 | AI播客生成器 | 快速生成AI语音播客 | [链接](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
 | 15 | AI文案助手 | 根据提示词快速优化文案 | [链接](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
 | 16 | AI老照片修复 | 放大、上色并从老照片生成视频 | [链接](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
@@ -58,6 +58,7 @@
 | 35 | AI矢量图生成 | 使用AI生成矢量图或根据矢量图生成视频 | [链接](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
 | 36 | PDF全能工具箱 | 全方位PDF助手，一站式解决各种PDF需求 | [链接](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
 | 37 | AI 3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
+| 38 | AI 网页生成器 | 无需编程知识也能轻松制作网页 | [链接](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -251,9 +252,9 @@ AI翻译视频并在线播放
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
 <a href="https://github.com/302ai/302_voice_call"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AF%9D.png?raw=true"/></a>
 
-## 13. AI网页生成器 ##
+## 13. AI网页生成器2.0 ##
 
-从文本或图像输入生成React应用
+一键生成高质量的网页
 
 [![Saas][Saas-image]][saas-url]
 [![Saas][Saas-image24]][saas-url24]
@@ -651,5 +652,21 @@ AI版Word
 [saas-url75]: https://github.com/302ai/302_ai_3d_modeling
 [saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
 <a href="https://github.com/302ai/302_ai_3d_modeling"><img src="/3D建模.png"/></a>
+
+## 38. AI 网页生成器  ##
+
+无需编程知识也能轻松制作网页
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image76]][saas-url76]
+[![Saas][Saas-image77]][saas-url77]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url76]: https://302.ai/tools/front/
+[saas-image76]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url77]: https://github.com/302ai/302_web_page_generator
+[saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
+<a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器.png"/></a>
 
 ### 每周更新，保持关注。

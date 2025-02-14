@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする37のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする38のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -35,7 +35,7 @@
 | 10 | AI論文作成 | オンライン情報を検索しAIで長文の論文を生成 | [Link](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
 | 11 | AI音声ジェネレーター | 複数のTTS-APIをサポート | [Link](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
 | 12 | AI音声通話 | リアルタイムAPIを使用したリアルタイム音声チャット | [Link](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
-| 13 | AIウェブページジェネレーター | テキストまたは画像入力からReactアプリケーションを生成 | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| 13 | AIウェブページジェネレーター2.0 | ワンクリックで高品質なウェブページを生成します | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
 | 14 | AIポッドキャストジェネレーター | AI音声ポッドキャストを迅速に生成 | [Link](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
 | 15 | AIコピーライティングアシスタント | プロンプトに基づいてコピーを迅速に最適化 | [Link](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
 | 16 | AI古写真修復 | 古い写真を拡大、色付け、動画化 | [Link](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
@@ -60,6 +60,7 @@
 | 35 | AI ベクター画像生成 | AI を使用してベクトルグラフィックを生成する、またはベクトルグラフィックに基づいてビデオを生成する | [Link](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) 
 | 36 | PDF万能ツールボックス | 包括的なPDFアシスタント、すべてのPDFニーズに対するワンストップソリューション | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) 
 | 37 | AI 3D モデリング | AI を使って画像を 3D モデルに変換する | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) 
+| 38 | AIウェブページジェネレーター | プログラミング知識なしで簡単にウェブページを作成 | [Link](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -252,9 +253,9 @@ AI が動画を翻訳しオンラインで再生
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
 <a href="https://github.com/302ai/302_voice_call"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AF%9Djp.png?raw=true"/></a>
 
-## 13. AIウェブページジェネレーター ##
+## 13. AIウェブページジェネレーター2.0 ##
 
-テキストまたは画像入力からReactアプリケーションを生成
+ワンクリックで高品質なウェブページを生成します
 
 [![Saas][Saas-image]][saas-url]
 [![Saas][Saas-image24]][saas-url24]
@@ -645,5 +646,20 @@ AI を使って画像を 3D モデルに変換する
 [saas-url75]: https://github.com/302ai/302_ai_3d_modeling
 [saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
 <a href="https://github.com/302ai/302_ai_3d_modeling"><img src="/3D建模jp.png"/></a> 
+
+## 38. AIウェブページジェネレーター ##
+
+プログラミング知識なしで簡単にウェブページを作成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image76]][saas-url76]
+[![Saas][Saas-image77]][saas-url77]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url76]: https://302.ai/ja/tools/front/
+[saas-image76]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url77]: https://github.com/302ai/302_web_page_generator
+[saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
+<a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
