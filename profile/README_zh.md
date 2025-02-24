@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了38个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了39个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -59,6 +59,7 @@
 | 36 | PDF全能工具箱 | 全方位PDF助手，一站式解决各种PDF需求 | [链接](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
 | 37 | AI 3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
 | 38 | AI 网页生成器 | 无需编程知识也能轻松制作网页 | [链接](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
+| 39 | AI 提示词专家2.0 | 一键生成高质量提示词 | [链接](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -668,5 +669,21 @@ AI版Word
 [saas-url77]: https://github.com/302ai/302_web_page_generator
 [saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
 <a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器.png"/></a>
+
+## 39. AI 提示词专家2.0  ##
+
+一键生成高质量提示词
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image78]][saas-url78]
+[![Saas][Saas-image79]][saas-url79]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url78]: https://302.ai/tools/prompt/
+[saas-image78]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url79]: https://github.com/302ai/302_prompt_expert
+[saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
+<a href="https://github.com/302ai/302_prompt_expert"><img src="/提示词专家2.0.png"/></a>
 
 ### 每周更新，保持关注。

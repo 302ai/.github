@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする38のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする39のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -61,6 +61,8 @@
 | 36 | PDF万能ツールボックス | 包括的なPDFアシスタント、すべてのPDFニーズに対するワンストップソリューション | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) 
 | 37 | AI 3D モデリング | AI を使って画像を 3D モデルに変換する | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) 
 | 38 | AIウェブページジェネレーター | プログラミング知識なしで簡単にウェブページを作成 | [Link](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) 
+| 39 | AIプロンプトワードエキスパート2.0 | ワンクリックで高品質なプロンプト語を生成 | [Link](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) 
+
 
 ## 1. 302-AI-SDK ##
 
@@ -661,5 +663,20 @@ AI を使って画像を 3D モデルに変換する
 [saas-url77]: https://github.com/302ai/302_web_page_generator
 [saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
 <a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器jp.png"/></a> 
+
+## 39. AIプロンプトワードエキスパート2.0 ##
+
+ワンクリックで高品質なプロンプト語を生成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image78]][saas-url78]
+[![Saas][Saas-image79]][saas-url79]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url78]: https://302.ai/ja/tools/prompt/
+[saas-image78]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url79]: https://github.com/302ai/302_prompt_expert
+[saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
+<a href="https://github.com/302ai/302_prompt_expert"><img src="/提示词专家2.0jp.png"/></a> 
 
 ### 毎週更新、ご注目ください

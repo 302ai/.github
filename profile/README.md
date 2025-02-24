@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 38 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 39 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -60,6 +60,8 @@ It is recommended to experience online first, and then find the projects you are
 | 36 | PDF All-in-One Toolbox | Comprehensive PDF Assistant，One-stop solution for all PDF needs | [Link](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
 | 37 | AI 3D Modeling | Use AI to convert images into 3D models | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
 | 38 | AI Web Page Generator | Create web pages easily without any programming knowledge | [Link](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
+| 39 | AI Prompt Expert 2.0 | One click generation of high-quality prompt words | [Link](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
+
 
 ## 1. 302-AI-SDK ##
 
@@ -669,5 +671,21 @@ Create web pages easily without any programming knowledge
 [saas-url77]: https://github.com/302ai/302_web_page_generator
 [saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
 <a href="https://github.com/302ai/302_web_page_generator"><img src="/网页生成器en.png"/></a>
+
+## 39. AI Prompt Expert 2.0 ##
+
+One click generation of high-quality prompt words
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image78]][saas-url78]
+[![Saas][Saas-image79]][saas-url79]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url78]: https://302.ai/en/tools/prompt/
+[saas-image78]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url79]: https://github.com/302ai/302_prompt_expert
+[saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
+<a href="https://github.com/302ai/302_prompt_expert"><img src="/提示词专家2.0en.png"/></a>
 
 ### Weekly updates, stay tuned.
