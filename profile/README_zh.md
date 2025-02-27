@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了39个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了41个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -60,6 +60,8 @@
 | 37 | AI 3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
 | 38 | AI 网页生成器 | 无需编程知识也能轻松制作网页 | [链接](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
 | 39 | AI 提示词专家2.0 | 一键生成高质量提示词 | [链接](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
+| 40 | 图片竞技场 | AI模型文生图能力大比拼 | [链接](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) |
+| 41 | Lora风格创意站 | 训练和使用Lora模型生成不同风格的创意图片 | [链接](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -685,5 +687,37 @@ AI版Word
 [saas-url79]: https://github.com/302ai/302_prompt_expert
 [saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
 <a href="https://github.com/302ai/302_prompt_expert"><img src="/提示词专家2.0.png"/></a>
+
+## 40. 图片竞技场  ##
+
+AI模型文生图能力大比拼
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image80]][saas-url80]
+[![Saas][Saas-image81]][saas-url81]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url80]: https://302.ai/tools/imgarena/
+[saas-image80]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url81]: https://github.com/302ai/302_image_arena
+[saas-image81]: https://img.shields.io/github/stars/302ai/302_image_arena?style=social
+<a href="https://github.com/302ai/302_image_arena"><img src="/图片竞技场.png"/></a>
+
+## 41. Lora风格创意站  ##
+
+训练和使用Lora模型生成不同风格的创意图片
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image82]][saas-url82]
+[![Saas][Saas-image83]][saas-url83]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url82]: https://302.ai/tools/lora/
+[saas-image82]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url83]: https://github.com/302ai/302_lora
+[saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
+<a href="https://github.com/302ai/302_lora"><img src="/302_Lora风格创意站.png"/></a>
 
 ### 每周更新，保持关注。

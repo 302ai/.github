@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする39のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする41のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -62,7 +62,8 @@
 | 37 | AI 3D モデリング | AI を使って画像を 3D モデルに変換する | [Link](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) 
 | 38 | AIウェブページジェネレーター | プログラミング知識なしで簡単にウェブページを作成 | [Link](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) 
 | 39 | AIプロンプトワードエキスパート2.0 | ワンクリックで高品質なプロンプト語を生成 | [Link](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) 
-
+| 40 | 画像アリーナ | AIモデルのテキストから画像生成性能の比較 | [Link](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) 
+| 41 | Loraスタイルクリエイティブステーション | Loraモデルをトレーニングして、異なるスタイルのクリエイティブな画像を生成します | [Link](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -678,5 +679,35 @@ AI を使って画像を 3D モデルに変換する
 [saas-url79]: https://github.com/302ai/302_prompt_expert
 [saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
 <a href="https://github.com/302ai/302_prompt_expert"><img src="/提示词专家2.0jp.png"/></a> 
+
+## 40. 画像アリーナ ##
+
+AIモデルのテキストから画像生成性能の比較
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image80]][saas-url80]
+[![Saas][Saas-image81]][saas-url81]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url80]: https://302.ai/ja/tools/imgarena/
+[saas-image80]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url81]: https://github.com/302ai/302_image_arena
+[saas-image81]: https://img.shields.io/github/stars/302ai/302_image_arena?style=social
+<a href="https://github.com/302ai/302_image_arena"><img src="/图片竞技场jp.png"/></a> 
+
+## 41. Loraスタイルクリエイティブステーション ##
+
+Loraモデルをトレーニングして、異なるスタイルのクリエイティブな画像を生成します
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image82]][saas-url82]
+[![Saas][Saas-image83]][saas-url83]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url82]: https://302.ai/ja/tools/lora/
+[saas-image82]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url83]: https://github.com/302ai/302_lora
+[saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
+<a href="https://github.com/302ai/302_lora"><img src="/302_Lora风格创意站_jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
