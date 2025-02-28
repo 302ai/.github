@@ -17,12 +17,12 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了41个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了42个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
 | 1 | 302-AI-SDK | 这是与Vercel AI SDK集成的302AI官方提供商SDK | [链接](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
-| 2 | 302-Dev-Kit | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 2 | 302-Starter | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302_starter) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_starter?style=social) |
 | 3 | 302-LLM-Playground | 强大的LLM Playground | [链接](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
@@ -57,11 +57,12 @@
 | 34 | AI答题机 | 使用AI进行题目解答 | [链接](https://github.com/302ai/302_ai_answer_machine) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social) |
 | 35 | AI矢量图生成 | 使用AI生成矢量图或根据矢量图生成视频 | [链接](https://github.com/302ai/302_vector_graphics_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social) |
 | 36 | PDF全能工具箱 | 全方位PDF助手，一站式解决各种PDF需求 | [链接](https://github.com/302ai/302_pdf_all_in_one_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social) |
-| 37 | AI 3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
-| 38 | AI 网页生成器 | 无需编程知识也能轻松制作网页 | [链接](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
-| 39 | AI 提示词专家2.0 | 一键生成高质量提示词 | [链接](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
+| 37 | AI3D建模 | 使用AI将图片转成3D模型 | [链接](https://github.com/302ai/302_ai_3d_modeling) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social) |
+| 38 | AI网页生成器 | 无需编程知识也能轻松制作网页 | [链接](https://github.com/302ai/302_web_page_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social) |
+| 39 | AI提示词专家2.0 | 一键生成高质量提示词 | [链接](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
 | 40 | 图片竞技场 | AI模型文生图能力大比拼 | [链接](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) |
 | 41 | Lora风格创意站 | 训练和使用Lora模型生成不同风格的创意图片 | [链接](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) |
+| 42 | 代码竞技场 | AI模型代码能力大比拼 | [链接](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -77,7 +78,7 @@
 
 <a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
-## 2. 302-Dev-Kit ##
+## 2. 302-Starter ##
 
 所有工具的初始开发模板
 
@@ -88,10 +89,10 @@
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url3]: https://github.com/302ai/302-Dev-Kit
-[saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
+[saas-url3]: https://github.com/302ai/302_starter
+[saas-image3]: https://img.shields.io/github/stars/302ai/302_starter?style=social
 
-<a href="https://github.com/302ai/302-Dev-Kit"><img src="https://github.com/302ai/.github/blob/main/302-dev-kit.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_starter"><img src="/302_Starter.jpg"/></a>
 
 ## 3. 302-LLM-Playground ##
 
@@ -719,5 +720,21 @@ AI模型文生图能力大比拼
 [saas-url83]: https://github.com/302ai/302_lora
 [saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
 <a href="https://github.com/302ai/302_lora"><img src="/302_Lora风格创意站.png"/></a>
+
+## 42. 代码竞技场  ##
+
+AI模型代码能力大比拼
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image84]][saas-url84]
+[![Saas][Saas-image85]][saas-url85]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url84]: https://302.ai/tools/codearena/
+[saas-image84]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url85]: https://github.com/302ai/302_code_arena
+[saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
+<a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场.png"/></a>
 
 ### 每周更新，保持关注。

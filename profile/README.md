@@ -18,12 +18,12 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 41 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 42 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
 | 1 | 302-AI-SDK | This is an official provider SDK for 302AI that integrates with Vercel AI SDK | [Link](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
-| 2 | 302-Dev-Kit | The starting template for all our AI Apps | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 2 | 302-Starter | The starting template for all our AI Apps | [Link](https://github.com/302ai/302_starter) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_starter?style=social) |
 | 3 | 302-LLM-Playground | A powerful and interactive playground for experimenting LLM | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI Image Toolbox | Supports 20 types of image tools | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI Prompt Expert | Generates structured prompts and tests them | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
@@ -63,6 +63,7 @@ It is recommended to experience online first, and then find the projects you are
 | 39 | AI Prompt Expert 2.0 | One click generation of high-quality prompt words | [Link](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) |
 | 40 | Image Arena | Comparison of AI models' text-to-image generation capabilities | [Link](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) |
 | 41 | Lora Style Creative Hub | Train and use Lora models to generate creative images in different styles | [Link](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) |
+| 42 | Code Arena | AI Model Code Capability Competition | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -77,7 +78,7 @@ This is an official provider SDK for 302AI that integrates with Vercel AI SDK
 [saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
 <a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
-## 2. 302-Dev-Kit ##
+## 2. 302-Starter ##
 
 The starting template for all our AI Apps 
 
@@ -88,10 +89,10 @@ The starting template for all our AI Apps
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url3]: https://github.com/302ai/302-Dev-Kit
-[saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
+[saas-url3]: https://github.com/302ai/302_starter
+[saas-image3]: https://img.shields.io/github/stars/302ai/302_starter?style=social
 
-<a href="https://github.com/302ai/302-Dev-Kit"><img src="https://github.com/302ai/.github/blob/main/302-dev-kit.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_starter"><img src="/302_Starter.jpg"/></a>
 
 ## 3. 302-LLM-Playground ##
 
@@ -720,5 +721,22 @@ Train and use Lora models to generate creative images in different styles
 [saas-url83]: https://github.com/302ai/302_lora
 [saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
 <a href="https://github.com/302ai/302_lora"><img src="/302_Lora风格创意站_en.png"/></a>
+
+## 42. Code Arena ##
+
+AI Model Code Capability Competition
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image84]][saas-url84]
+[![Saas][Saas-image85]][saas-url85]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url84]: https://302.ai/en/tools/codearena/
+[saas-image84]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url85]: https://github.com/302ai/302_code_arena
+[saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
+<a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场en.png"/></a>
+
 
 ### Weekly updates, stay tuned.

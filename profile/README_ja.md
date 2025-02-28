@@ -18,13 +18,13 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする41のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする42のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
 |---|----------|------|--------|-------|
 | 1 | 302-AI-SDK | これはVercel AI SDKと統合された302 AI公式プロバイダSDKです | [Link](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
-| 2 | 302-Dev-Kit | すべてのツールの初期開発テンプレート | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 2 | 302-Starter | すべてのツールの初期開発テンプレート | [Link](https://github.com/302ai/302_starter) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_starter?style=social) |
 | 3 | 302-LLM-Playground | 強力なLLM Playground | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI画像ツールボックス | 20種類の画像ツールをサポート | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
@@ -64,6 +64,7 @@
 | 39 | AIプロンプトワードエキスパート2.0 | ワンクリックで高品質なプロンプト語を生成 | [Link](https://github.com/302ai/302_prompt_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social) 
 | 40 | 画像アリーナ | AIモデルのテキストから画像生成性能の比較 | [Link](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) 
 | 41 | Loraスタイルクリエイティブステーション | Loraモデルをトレーニングして、異なるスタイルのクリエイティブな画像を生成します | [Link](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) 
+| 42 | コード競技場 | AIモデルコード能力の大勝負 | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -78,7 +79,7 @@
 [saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
 <a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
-## 2. 302-Dev-Kit ##
+## 2. 302-Starter ##
 
 すべてのツールの初期開発テンプレート
 
@@ -89,10 +90,10 @@
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url3]: https://github.com/302ai/302-Dev-Kit
-[saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
+[saas-url3]: https://github.com/302ai/302_starter
+[saas-image3]: https://img.shields.io/github/stars/302ai/302_starter?style=social
 
-<a href="https://github.com/302ai/302-Dev-Kit"><img src="https://github.com/302ai/.github/blob/main/302-dev-kit.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_starter"><img src="/302_Starter.jpg"/></a>
 
 ## 3. 302-LLM-Playground ##
 
@@ -709,5 +710,20 @@ Loraモデルをトレーニングして、異なるスタイルのクリエイ�
 [saas-url83]: https://github.com/302ai/302_lora
 [saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
 <a href="https://github.com/302ai/302_lora"><img src="/302_Lora风格创意站_jp.png"/></a> 
+
+## 42. コード競技場 ##
+
+AIモデルコード能力の大勝負
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image84]][saas-url84]
+[![Saas][Saas-image85]][saas-url85]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url84]: https://302.ai/ja/tools/codearena/
+[saas-image84]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url85]: https://github.com/302ai/302_code_arena
+[saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
+<a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
