@@ -23,7 +23,7 @@ It is recommended to experience online first, and then find the projects you are
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
 | 1 | 302-AI-SDK | This is an official provider SDK for 302AI that integrates with Vercel AI SDK | [Link](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
-| 2 | 302-Starter | The starting template for all our AI Apps | [Link](https://github.com/302ai/302_starter) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_starter?style=social) |
+| 2 | 302-DEV-KIT | The starting template for all our AI Apps | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
 | 3 | 302-LLM-Playground | A powerful and interactive playground for experimenting LLM | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI Image Toolbox | Supports 20 types of image tools | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI Prompt Expert | Generates structured prompts and tests them | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
@@ -78,7 +78,7 @@ This is an official provider SDK for 302AI that integrates with Vercel AI SDK
 [saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
 <a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
-## 2. 302-Starter ##
+## 2. 302-DEV-KIT ##
 
 The starting template for all our AI Apps 
 
@@ -89,10 +89,10 @@ The starting template for all our AI Apps
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url3]: https://github.com/302ai/302_starter
-[saas-image3]: https://img.shields.io/github/stars/302ai/302_starter?style=social
+[saas-url3]: https://github.com/302ai/302-Dev-Kit
+[saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
 
-<a href="https://github.com/302ai/302_starter"><img src="/302_Starter.jpg"/></a>
+<a href="https://github.com/302ai/302-Dev-Kit"><img src="/302-dev-kit.png"/></a>
 
 ## 3. 302-LLM-Playground ##
 

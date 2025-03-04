@@ -22,7 +22,7 @@
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
 | 1 | 302-AI-SDK | 这是与Vercel AI SDK集成的302AI官方提供商SDK | [链接](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
-| 2 | 302-Starter | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302_starter) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_starter?style=social) |
+| 2 | 302-DEV-KIT | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
 | 3 | 302-LLM-Playground | 强大的LLM Playground | [链接](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
@@ -78,7 +78,7 @@
 
 <a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
-## 2. 302-Starter ##
+## 2. 302-DEV-KIT ##
 
 所有工具的初始开发模板
 
@@ -89,10 +89,10 @@
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url3]: https://github.com/302ai/302_starter
-[saas-image3]: https://img.shields.io/github/stars/302ai/302_starter?style=social
+[saas-url3]: https://github.com/302ai/302-Dev-Kit
+[saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
 
-<a href="https://github.com/302ai/302_starter"><img src="/302_Starter.jpg"/></a>
+<a href="https://github.com/302ai/302-Dev-Kit"><img src="/302-dev-kit.png"/></a>
 
 ## 3. 302-LLM-Playground ##
 
