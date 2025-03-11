@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする42のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする43のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -65,6 +65,7 @@
 | 40 | 画像アリーナ | AIモデルのテキストから画像生成性能の比較 | [Link](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) 
 | 41 | Loraスタイルクリエイティブステーション | Loraモデルをトレーニングして、異なるスタイルのクリエイティブな画像を生成します | [Link](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) 
 | 42 | コード競技場 | AIモデルコード能力の大勝負 | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) 
+| 43 | AI 事実証拠 | JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -726,4 +727,18 @@ AIモデルコード能力の大勝負
 [saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
 <a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场jp.png"/></a> 
 
+## 43. AI 事実証拠 ##
+
+JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image86]][saas-url86]
+[![Saas][Saas-image87]][saas-url87]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url86]: https://302.ai/ja/tools/verify/
+[saas-image86]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url87]: https://github.com/302ai/302_facts_proof
+[saas-image87]: https://img.shields.io/github/stars/302ai/302_facts_proof?style=social
+<a href="https://github.com/302ai/302_facts_proof"><img src="/事实求证jp.png"/></a> 
 ### 毎週更新、ご注目ください

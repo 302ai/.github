@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了42个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了43个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -63,6 +63,7 @@
 | 40 | 图片竞技场 | AI模型文生图能力大比拼 | [链接](https://github.com/302ai/302_image_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_arena?style=social) |
 | 41 | Lora风格创意站 | 训练和使用Lora模型生成不同风格的创意图片 | [链接](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) |
 | 42 | 代码竞技场 | AI模型代码能力大比拼 | [链接](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) |
+| 43 | AI事实求证 | 使用Jina和Exa搜索相关概念证实内容表达是否成立 | [链接](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) |
 
 ## 1. 302-AI-SDK ##
 
@@ -736,5 +737,22 @@ AI模型代码能力大比拼
 [saas-url85]: https://github.com/302ai/302_code_arena
 [saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
 <a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场.png"/></a>
+
+## 43. AI事实求证  ##
+
+使用Jina和Exa搜索相关概念证实内容表达是否成立
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image86]][saas-url86]
+[![Saas][Saas-image87]][saas-url87]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url86]: https://302.ai/tools/verify/
+[saas-image86]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url87]: https://github.com/302ai/302_facts_proof
+[saas-image87]: https://img.shields.io/github/stars/302ai/302_facts_proof?style=social
+<a href="https://github.com/302ai/302_facts_proof"><img src="/事实求证.png"/></a>
+
 
 ### 每周更新，保持关注。
