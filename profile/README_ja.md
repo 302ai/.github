@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする43のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする44のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -66,6 +66,7 @@
 | 41 | Loraスタイルクリエイティブステーション | Loraモデルをトレーニングして、異なるスタイルのクリエイティブな画像を生成します | [Link](https://github.com/302ai/302_lora) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_lora?style=social) 
 | 42 | コード競技場 | AIモデルコード能力の大勝負 | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) 
 | 43 | AI 事実証拠 | JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) 
+| 44 | 動画リスト | AIモデルのビデオ生成能力の大比較 | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) 
 
 ## 1. 302-AI-SDK ##
 
@@ -741,4 +742,20 @@ JinaとExa検索に関する概念を用いてコンテンツ表現が成立す�
 [saas-url87]: https://github.com/302ai/302_facts_proof
 [saas-image87]: https://img.shields.io/github/stars/302ai/302_facts_proof?style=social
 <a href="https://github.com/302ai/302_facts_proof"><img src="/事实求证jp.png"/></a> 
+
+## 44. 動画リスト ##
+
+AIモデルのビデオ生成能力の大比較
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image88]][saas-url88]
+[![Saas][Saas-image89]][saas-url89]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url88]: https://302.ai/ja/tools/videoarena/
+[saas-image88]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url89]: https://github.com/302ai/302_video_arena
+[saas-image89]: https://img.shields.io/github/stars/302ai/302_video_arena?style=social
+<a href="https://github.com/302ai/302_video_arena"><img src="/视频竞技场jp.png"/></a> 
+
 ### 毎週更新、ご注目ください
