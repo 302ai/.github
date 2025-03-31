@@ -273,7 +273,7 @@ AI が動画を翻訳しオンラインで再生
 [saas-image24]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url25]: https://github.com/302ai/302_coder_generator
 [saas-image25]: https://img.shields.io/github/stars/302ai/302_coder_generator?style=social
-<a href="https://github.com/302ai/302_coder_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%BD%91%E9%A1%B5%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_coder_generator"><img src="/AI 网页生成器2.0jp.png"/></a>
 
 ## 14. AIポッドキャストジェネレーター ##
 
