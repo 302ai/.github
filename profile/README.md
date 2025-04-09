@@ -67,6 +67,12 @@ It is recommended to experience online first, and then find the projects you are
 | 43 | AI facts proof | Use Jina and Exa to search for relevant concepts and verify whether the content expression is valid | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) |
 | 44 | Video Arena | AI Model Video Generation Ability Competition | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) |
 
+## MCP Server List
+
+| # | Tool | Description | Link | Stars |
+|------|----------|------|------|-------|
+| 1 | Code Sandbox | Execute code in sandbox and get results | [链接](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
+
 ## 1. 302-AI-SDK ##
 
 This is an official provider SDK for 302AI that integrates with Vercel AI SDK

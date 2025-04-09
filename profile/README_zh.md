@@ -66,6 +66,12 @@
 | 43 | AI事实求证 | 使用Jina和Exa搜索相关概念证实内容表达是否成立 | [链接](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) |
 | 44 | 视频竞技场 | AI模型视频生成能力大比拼 | [链接](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) |
 
+## MCP 服务列表
+
+| # | 工具名称 | 描述 | 链接 | Stars |
+|------|----------|------|------|-------|
+| 1 | 代码沙盒 | 在沙盒里执行代码并获取结果 | [链接](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
+
 ## 1. 302-AI-SDK ##
 
 这是与Vercel AI SDK集成的302AI官方提供商SDK

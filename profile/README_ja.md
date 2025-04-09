@@ -68,6 +68,13 @@
 | 43 | AI 事実証拠 | JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) 
 | 44 | 動画リスト | AIモデルのビデオ生成能力の大比較 | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) 
 
+## MCPサーバリスト
+
+| # | ツール名 | 説明 | Link | Stars |
+|------|----------|------|------|-------|
+| 1 | コードサンドボックス | サンドボックスでコードを実行して結果を取得 | [链接](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
+
+
 ## 1. 302-AI-SDK ##
 
 これはVercel AI SDKと統合された302 AI公式プロバイダSDKです
