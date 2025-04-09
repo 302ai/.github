@@ -71,7 +71,7 @@ It is recommended to experience online first, and then find the projects you are
 
 | # | Tool | Description | Link | Stars |
 |------|----------|------|------|-------|
-| 1 | Code Sandbox | Execute code in sandbox and get results | [链接](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
+| 1 | Code Sandbox | Execute code in sandbox and get results | [Link](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
 
 ## 1. 302-AI-SDK ##
 
