@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする44のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする45のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -67,6 +67,7 @@
 | 42 | コード競技場 | AIモデルコード能力の大勝負 | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) 
 | 43 | AI 事実証拠 | JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) 
 | 44 | 動画リスト | AIモデルのビデオ生成能力の大比較 | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) 
+| 45 | ComfyUIツールボックス | ComfyUIの複雑なワークフローで様々な変換効果を実現 | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) 
 
 ## MCPサーバリスト
 
@@ -764,5 +765,20 @@ AIモデルのビデオ生成能力の大比較
 [saas-url89]: https://github.com/302ai/302_video_arena
 [saas-image89]: https://img.shields.io/github/stars/302ai/302_video_arena?style=social
 <a href="https://github.com/302ai/302_video_arena"><img src="/视频竞技场jp.png"/></a> 
+
+## 45. ComfyUIツールボックス ##
+
+ComfyUIの複雑なワークフローで様々な変換効果を実現
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image90]][saas-url90]
+[![Saas][Saas-image91]][saas-url91]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url90]: https://302.ai/ja/tools/comfytools/
+[saas-image90]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url91]: https://github.com/302ai/302_comfyui_toolbox
+[saas-image91]: https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social
+<a href="https://github.com/302ai/302_comfyui_toolbox"><img src="/302_ComfyUI_Toolbox_jp.png"/></a> 
 
 ### 毎週更新、ご注目ください

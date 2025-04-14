@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 44 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 45 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -66,6 +66,7 @@ It is recommended to experience online first, and then find the projects you are
 | 42 | Code Arena | AI Model Code Capability Competition | [Link](https://github.com/302ai/302_code_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_code_arena?style=social) |
 | 43 | AI facts proof | Use Jina and Exa to search for relevant concepts and verify whether the content expression is valid | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) |
 | 44 | Video Arena | AI Model Video Generation Ability Competition | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) |
+| 45 | ComfyUI Toolbox | Achieve various transformation effects through complex ComfyUI workflows | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) |
 
 ## MCP Server List
 
@@ -777,5 +778,21 @@ AI Model Video Generation Ability Competition
 [saas-url89]: https://github.com/302ai/302_video_arena
 [saas-image89]: https://img.shields.io/github/stars/302ai/302_video_arena?style=social
 <a href="https://github.com/302ai/302_video_arena"><img src="/视频竞技场en.png"/></a>
+
+## 45. ComfyUI Toolbox ##
+
+Achieve various transformation effects through complex ComfyUI workflows
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image90]][saas-url90]
+[![Saas][Saas-image91]][saas-url91]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url90]: https://302.ai/en/tools/comfytools/
+[saas-image90]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url91]: https://github.com/302ai/302_comfyui_toolbox
+[saas-image91]: https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social
+<a href="https://github.com/302ai/302_comfyui_toolbox"><img src="/302_ComfyUI_Toolbox_en.png"/></a>
 
 ### Weekly updates, stay tuned.
