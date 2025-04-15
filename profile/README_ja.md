@@ -73,8 +73,9 @@
 
 | # | ツール名 | 説明 | Link | Stars |
 |------|----------|------|------|-------|
-| 1 | コードサンドボックス | サンドボックスでコードを実行して結果を取得 | [Link](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
-
+| 1 | 基本ツール | 大規模言語モデルの基本機能を強化するツールキット | [Link](https://github.com/302ai/302_basic_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_basic_mcp?style=social) |
+| 2 | コードサンドボックス | サンドボックスでコードを実行して結果を取得 | [Link](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
+| 3 | ブラウザー | AIによる自動化ブラウザー制御サービス | [Link](https://github.com/302ai/302_browser_use_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_browser_use_mcp?style=social) |
 
 ## 1. 302-AI-SDK ##
 
