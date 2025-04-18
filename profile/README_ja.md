@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする45のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする46のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -68,6 +68,7 @@
 | 43 | AI 事実証拠 | JinaとExa検索に関する概念を用いてコンテンツ表現が成立するかどうかを確認する | [Link](https://github.com/302ai/302_facts_proof) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_facts_proof?style=social) 
 | 44 | 動画リスト | AIモデルのビデオ生成能力の大比較 | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) 
 | 45 | ComfyUIツールボックス | ComfyUIの複雑なワークフローで様々な変換効果を実現 | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) 
+| 46 | Webページのワンクリック展開 | 静的Webページのワンクリック配置 | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) 
 
 ## MCPサーバリスト
 
@@ -781,5 +782,20 @@ ComfyUIの複雑なワークフローで様々な変換効果を実現
 [saas-url91]: https://github.com/302ai/302_comfyui_toolbox
 [saas-image91]: https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social
 <a href="https://github.com/302ai/302_comfyui_toolbox"><img src="/302_ComfyUI_Toolbox_jp.png"/></a> 
+
+## 46. Webページのワンクリック展開 ##
+
+静的Webページのワンクリック配置
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image92]][saas-url92]
+[![Saas][Saas-image93]][saas-url93]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url92]: https://302.ai/ja/tools/webserve/
+[saas-image92]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url93]: https://github.com/302ai/302_deploy_web_pages_by_one_click
+[saas-image93]: https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social
+<a href="https://github.com/302ai/302_deploy_web_pages_by_one_click"><img src="/302_网页一键部署_jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
