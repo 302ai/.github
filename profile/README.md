@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 46 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 47 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -68,6 +68,7 @@ It is recommended to experience online first, and then find the projects you are
 | 44 | Video Arena | AI Model Video Generation Ability Competition | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) |
 | 45 | ComfyUI Toolbox | Achieve various transformation effects through complex ComfyUI workflows | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) |
 | 46 | Deploy web pages by one-click | One click deployment of static web pages | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) |
+| 47 | AI drawing prompt word expert | One click generation of high-quality image prompt words | [Link](https://github.com/302ai/302_ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social) |
 
 ## MCP Server List
 
@@ -813,5 +814,21 @@ One click deployment of static web pages
 [saas-url93]: https://github.com/302ai/302_deploy_web_pages_by_one_click
 [saas-image93]: https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social
 <a href="https://github.com/302ai/302_deploy_web_pages_by_one_click"><img src="/302_网页一键部署_en.png"/></a>
+
+## 47. AI drawing prompt word expert ##
+
+One click generation of high-quality image prompt words
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image94]][saas-url94]
+[![Saas][Saas-image95]][saas-url95]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url94]: https://302.ai/en/tools/imgprompt/
+[saas-image94]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url95]: https://github.com/302ai/302_ai_drawing_prompt_word_expert
+[saas-image95]: https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social
+<a href="https://github.com/302ai/302_ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家en.png"/></a>
 
 ### Weekly updates, stay tuned.

@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする46のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする47のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -69,6 +69,7 @@
 | 44 | 動画リスト | AIモデルのビデオ生成能力の大比較 | [Link](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) 
 | 45 | ComfyUIツールボックス | ComfyUIの複雑なワークフローで様々な変換効果を実現 | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) 
 | 46 | Webページのワンクリック展開 | 静的Webページのワンクリック配置 | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) 
+| 47 | AI図面提示語専門家 | ワンクリックで高品質の画像プロンプトを生成する | [Link](https://github.com/302ai/302_ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social) 
 
 ## MCPサーバリスト
 
@@ -797,5 +798,20 @@ ComfyUIの複雑なワークフローで様々な変換効果を実現
 [saas-url93]: https://github.com/302ai/302_deploy_web_pages_by_one_click
 [saas-image93]: https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social
 <a href="https://github.com/302ai/302_deploy_web_pages_by_one_click"><img src="/302_网页一键部署_jp.png"/></a> 
+
+## 47. AI図面提示語専門家 ##
+
+ワンクリックで高品質の画像プロンプトを生成する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image94]][saas-url94]
+[![Saas][Saas-image95]][saas-url95]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url94]: https://302.ai/ja/tools/imgprompt/
+[saas-image94]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url95]: https://github.com/302ai/302_ai_drawing_prompt_word_expert
+[saas-image95]: https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social
+<a href="https://github.com/302ai/302_ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
