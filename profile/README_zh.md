@@ -76,6 +76,7 @@
 | 1 | 基础工具 | 增强大语言模型基础能力的工具包 | [链接](https://github.com/302ai/302_basic_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_basic_mcp?style=social) |
 | 2 | 代码沙盒 | 在沙盒里执行代码并获取结果 | [链接](https://github.com/302ai/302_sandbox_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_sandbox_mcp?style=social) |
 | 3 | 浏览器 | AI驱动的自动化浏览器控制服务 | [链接](https://github.com/302ai/302_browser_use_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_browser_use_mcp?style=social) |
+| 4 | 自定义 | 自选工具组合MCP服务 | [链接](https://github.com/302ai/302_custom_mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_custom_mcp?style=social) |
 
 ## 1. 302-AI-SDK ##
 
