@@ -67,7 +67,8 @@
 | 44 | 视频竞技场 | AI模型视频生成能力大比拼 | [链接](https://github.com/302ai/302_video_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_arena?style=social) |
 | 45 | ComfyUI工具箱 | 通过ComfyUI复杂工作流实现多种变换效果 | [链接](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) |
 | 46 | 网页一键部署 | 一键部署静态网页 | [链接](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) |
-| 47 | AI绘图提示词专家 | 一键生成高质量图片提示词 | [链接](https://github.com/302ai/302_ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social) |
+| 47 | AI绘图提示词专家 | 一键生成高质量图片提示词 | [链接](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
+
 
 ## MCP 服务列表
 
@@ -815,7 +816,7 @@ AI模型视频生成能力大比拼
 [saas-image93]: https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social
 <a href="https://github.com/302ai/302_deploy_web_pages_by_one_click"><img src="/302_网页一键部署.png"/></a>
 
-## 4. AI绘图提示词专家  ##
+## 47. AI绘图提示词专家  ##
 
 一键生成高质量图片提示词
 
@@ -827,8 +828,9 @@ AI模型视频生成能力大比拼
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url94]: https://302.ai/tools/imgprompt/
 [saas-image94]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url95]: https://github.com/302ai/302_ai_drawing_prompt_word_expert
-[saas-image95]: https://img.shields.io/github/stars/302ai/302_ai_drawing_prompt_word_expert?style=social
-<a href="https://github.com/302ai/302_ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家.png"/></a>
+[saas-url95]: https://github.com/302ai/ai_drawing_prompt_word_expert
+[saas-image95]: https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social
+<a href="https://github.com/302ai/ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家.png"/></a>
+
 
 ### 每周更新，保持关注。
