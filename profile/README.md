@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 47 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 48 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -69,7 +69,7 @@ It is recommended to experience online first, and then find the projects you are
 | 45 | ComfyUI Toolbox | Achieve various transformation effects through complex ComfyUI workflows | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) |
 | 46 | Deploy web pages by one-click | One click deployment of static web pages | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) |
 | 47 | AI drawing prompt word expert | One click generation of high-quality image prompt words | [Link](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
-
+| 48 | AI Card Generation | Using AI to generate multiple types of cards | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
 
 ## MCP Server List
 
@@ -833,5 +833,20 @@ One click generation of high-quality image prompt words
 [saas-image95]: https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social
 <a href="https://github.com/302ai/ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家en.png"/></a>
 
+## 48. AI Card Generation ##
+
+Using AI to generate multiple types of cards
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image96]][saas-url96]
+[![Saas][Saas-image97]][saas-url97]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url96]: https://302.ai/en/tools/card/
+[saas-image96]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url97]: https://github.com/302ai/302_ai_card_generation
+[saas-image97]: https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social
+<a href="https://github.com/302ai/302_ai_card_generation"><img src="/AI卡片生成en.png"/></a>
 
 ### Weekly updates, stay tuned.

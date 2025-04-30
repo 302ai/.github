@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了47个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了48个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -68,7 +68,7 @@
 | 45 | ComfyUI工具箱 | 通过ComfyUI复杂工作流实现多种变换效果 | [链接](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) |
 | 46 | 网页一键部署 | 一键部署静态网页 | [链接](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) |
 | 47 | AI绘图提示词专家 | 一键生成高质量图片提示词 | [链接](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
-
+| 48 | AI卡片生成 | 使用AI生成多种类型卡片 | [链接](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
 
 ## MCP 服务列表
 
@@ -832,5 +832,20 @@ AI模型视频生成能力大比拼
 [saas-image95]: https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social
 <a href="https://github.com/302ai/ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家.png"/></a>
 
+## 48. AI卡片生成  ##
+
+使用AI生成多种类型卡片
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image96]][saas-url96]
+[![Saas][Saas-image97]][saas-url97]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url96]: https://302.ai/tools/card/
+[saas-image96]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url97]: https://github.com/302ai/302_ai_card_generation
+[saas-image97]: https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social
+<a href="https://github.com/302ai/302_ai_card_generation"><img src="/AI卡片生成.png"/></a>
 
 ### 每周更新，保持关注。

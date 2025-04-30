@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする47のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする48のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -70,7 +70,7 @@
 | 45 | ComfyUIツールボックス | ComfyUIの複雑なワークフローで様々な変換効果を実現 | [Link](https://github.com/302ai/302_comfyui_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social) 
 | 46 | Webページのワンクリック展開 | 静的Webページのワンクリック配置 | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) 
 | 47 | AI図面提示語専門家 | ワンクリックで高品質の画像プロンプトを生成する | [Link](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) 
-
+| 48 | AIカード生成 | AIを用いた複数種類のカードの生成 | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) 
 
 ## MCPサーバリスト
 
@@ -816,5 +816,19 @@ ComfyUIの複雑なワークフローで様々な変換効果を実現
 [saas-image95]: https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social
 <a href="https://github.com/302ai/ai_drawing_prompt_word_expert"><img src="/AI 绘图提示词专家jp.png"/></a> 
 
+## 48. AIカード生成 ##
+
+AIを用いた複数種類のカードの生成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image96]][saas-url96]
+[![Saas][Saas-image97]][saas-url97]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url96]: https://302.ai/ja/tools/card/
+[saas-image96]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url97]: https://github.com/302ai/302_ai_card_generation
+[saas-image97]: https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social
+<a href="https://github.com/302ai/302_ai_card_generation"><img src="/AI卡片生成jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
