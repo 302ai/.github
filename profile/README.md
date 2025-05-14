@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 48 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 49 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -70,6 +70,7 @@ It is recommended to experience online first, and then find the projects you are
 | 46 | Deploy web pages by one-click | One click deployment of static web pages | [Link](https://github.com/302ai/302_deploy_web_pages_by_one_click) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social) |
 | 47 | AI drawing prompt word expert | One click generation of high-quality image prompt words | [Link](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
 | 48 | AI Card Generation | Using AI to generate multiple types of cards | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
+| 49 | AI Image Creative Station | Explore various creative gameplay options for GPT-Image-1 | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) |
 
 ## MCP Server List
 
@@ -848,5 +849,21 @@ Using AI to generate multiple types of cards
 [saas-url97]: https://github.com/302ai/302_ai_card_generation
 [saas-image97]: https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social
 <a href="https://github.com/302ai/302_ai_card_generation"><img src="/AI卡片生成en.png"/></a>
+
+## 49. AI Image Creative Station ##
+
+Explore various creative gameplay options for GPT-Image-1
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image98]][saas-url98]
+[![Saas][Saas-image99]][saas-url99]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url98]: https://302.ai/en/tools/gptimg/
+[saas-image98]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url99]: https://github.com/302ai/302_ai_image_creative_station
+[saas-image99]: https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social
+<a href="https://github.com/302ai/302_ai_image_creative_station"><img src="/AI图像创意站en.png"/></a>
 
 ### Weekly updates, stay tuned.
