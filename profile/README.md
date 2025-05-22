@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 49 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 50 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -71,6 +71,7 @@ It is recommended to experience online first, and then find the projects you are
 | 47 | AI drawing prompt word expert | One click generation of high-quality image prompt words | [Link](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
 | 48 | AI Card Generation | Using AI to generate multiple types of cards | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
 | 49 | AI Image Creative Station | Explore various creative gameplay options for GPT-Image-1 | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) |
+| 50 | AI Model Judge | AI Model Evaluation Tool | [Link](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social) |
 
 ## MCP Server List
 
@@ -865,5 +866,21 @@ Explore various creative gameplay options for GPT-Image-1
 [saas-url99]: https://github.com/302ai/302_ai_image_creative_station
 [saas-image99]: https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social
 <a href="https://github.com/302ai/302_ai_image_creative_station"><img src="/AI图像创意站en.png"/></a>
+
+## 50. AI Model Judge ##
+
+AI Model Evaluation Tool
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image100]][saas-url100]
+[![Saas][Saas-image101]][saas-url101]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url100]: https://302.ai/en/tools/judge/
+[saas-image100]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
+[saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
+<a href="https://github.com/302ai/302_ai_ai_model_judge"><img src="/AI模型判官en.png"/></a>
 
 ### Weekly updates, stay tuned.

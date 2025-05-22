@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする49のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする50のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -72,6 +72,7 @@
 | 47 | AI図面提示語専門家 | ワンクリックで高品質の画像プロンプトを生成する | [Link](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) 
 | 48 | AIカード生成 | AIを用いた複数種類のカードの生成 | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) 
 | 49 | AI 画像クリエイティブステーション | GPT-Image-1の多様なアイデアの遊び方を探る | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) 
+| 50 | AIモデル判事 | AIモデル評価ツール | [Link](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social)
 
 ## MCPサーバリスト
 
@@ -846,5 +847,20 @@ GPT-Image-1の多様なアイデアの遊び方を探る
 [saas-url99]: https://github.com/302ai/302_ai_image_creative_station
 [saas-image99]: https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social
 <a href="https://github.com/302ai/302_ai_image_creative_station"><img src="/AI图像创意站jp.png"/></a> 
+
+## 50. AIモデル判事 ##
+
+AIモデル評価ツール
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image100]][saas-url100]
+[![Saas][Saas-image101]][saas-url101]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url100]: https://302.ai/ja/tools/judge/
+[saas-image100]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
+[saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
+<a href="https://github.com/302ai/302_ai_ai_model_judge"><img src="/AI模型判官jp.jpg"/></a> 
 
 ### 毎週更新、ご注目ください

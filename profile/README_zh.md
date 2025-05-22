@@ -17,7 +17,7 @@
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
 ## 开源列表
-*(我们开源了49个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了50个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -70,6 +70,7 @@
 | 47 | AI绘图提示词专家 | 一键生成高质量图片提示词 | [链接](https://github.com/302ai/ai_drawing_prompt_word_expert) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social) |
 | 48 | AI卡片生成 | 使用AI生成多种类型卡片 | [链接](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
 | 49 | AI图像创意站 | 探索GPT-Image-1的多种创意玩法 | [链接](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) |
+| 50 | AI模型判官 | AI模型评测工具 | [链接](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social) |
 
 ## MCP 服务列表
 
@@ -864,5 +865,21 @@ AI模型视频生成能力大比拼
 [saas-url99]: https://github.com/302ai/302_ai_image_creative_station
 [saas-image99]: https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social
 <a href="https://github.com/302ai/302_ai_image_creative_station"><img src="/AI图像创意站.png"/></a>
+
+## 50. AI模型判官  ##
+
+AI模型评测工具
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image100]][saas-url100]
+[![Saas][Saas-image101]][saas-url101]
+
+[saas-url]: https://302.ai/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url100]: https://302.ai/tools/judge/
+[saas-image100]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
+[saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
+<a href="https://github.com/302ai/302_ai_ai_model_judge"><img src="/AI模型判官.png"/></a>
 
 ### 每周更新，保持关注。
