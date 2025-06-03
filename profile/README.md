@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 50 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 51 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -72,6 +72,7 @@ It is recommended to experience online first, and then find the projects you are
 | 48 | AI Card Generation | Using AI to generate multiple types of cards | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) |
 | 49 | AI Image Creative Station | Explore various creative gameplay options for GPT-Image-1 | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) |
 | 50 | AI Model Judge | AI Model Evaluation Tool | [Link](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social) |
+| 51 | AI Novel Writing | Using AI for novel writing | [Link](https://github.com/302ai/302_novel_writing) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_novel_writing?style=social) |
 
 ## MCP Server List
 
@@ -882,5 +883,21 @@ AI Model Evaluation Tool
 [saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
 [saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
 <a href="https://github.com/302ai/302_ai_ai_model_judge"><img src="/AI模型判官en.png"/></a>
+
+## 51. AI Novel Writing ##
+
+Using AI for novel writing
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image102]][saas-url102]
+[![Saas][Saas-image103]][saas-url103]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url102]: https://302.ai/en/tools/novel/
+[saas-image102]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url103]: https://github.com/302ai/302_novel_writing
+[saas-image103]: https://img.shields.io/github/stars/302ai/302_novel_writing?style=social
+<a href="https://github.com/302ai/302_novel_writing"><img src="/AI小说写作en.png"/></a>
 
 ### Weekly updates, stay tuned.

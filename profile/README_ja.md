@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする50のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする51のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -73,6 +73,7 @@
 | 48 | AIカード生成 | AIを用いた複数種類のカードの生成 | [Link](https://github.com/302ai/302_ai_card_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social) 
 | 49 | AI 画像クリエイティブステーション | GPT-Image-1の多様なアイデアの遊び方を探る | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) 
 | 50 | AIモデル判事 | AIモデル評価ツール | [Link](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social)
+| 51 | AI小説執筆 | AIを使った小説執筆 | [Link](https://github.com/302ai/302_novel_writing) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_novel_writing?style=social)
 
 ## MCPサーバリスト
 
@@ -862,5 +863,20 @@ AIモデル評価ツール
 [saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
 [saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
 <a href="https://github.com/302ai/302_ai_ai_model_judge"><img src="/AI模型判官jp.jpg"/></a> 
+
+## 51. AI小説執筆 ##
+
+AIを使った小説執筆
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image102]][saas-url102]
+[![Saas][Saas-image103]][saas-url103]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url102]: https://302.ai/ja/tools/novel/
+[saas-image102]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url103]: https://github.com/302ai/302_novel_writing
+[saas-image103]: https://img.shields.io/github/stars/302ai/302_novel_writing?style=social
+<a href="https://github.com/302ai/302_novel_writing"><img src="/AI小说写作jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
