@@ -18,7 +18,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする51のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする52のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -74,6 +74,7 @@
 | 49 | AI 画像クリエイティブステーション | GPT-Image-1の多様なアイデアの遊び方を探る | [Link](https://github.com/302ai/302_ai_image_creative_station) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social) 
 | 50 | AIモデル判事 | AIモデル評価ツール | [Link](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social)
 | 51 | AI小説執筆 | AIを使った小説執筆 | [Link](https://github.com/302ai/302_novel_writing) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_novel_writing?style=social)
+| 52 | ボイスアリーナ | AIモデルの音声生成能力の比較 | [Link](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social)
 
 ## MCPサーバリスト
 
@@ -878,5 +879,20 @@ AIを使った小説執筆
 [saas-url103]: https://github.com/302ai/302_novel_writing
 [saas-image103]: https://img.shields.io/github/stars/302ai/302_novel_writing?style=social
 <a href="https://github.com/302ai/302_novel_writing"><img src="/AI小说写作jp.png"/></a> 
+
+## 52. ボイスアリーナ ##
+
+AIモデルの音声生成能力の比較
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image104]][saas-url104]
+[![Saas][Saas-image105]][saas-url105]
+
+[saas-url]: https://302.ai/ja/tools/ 
+[saas-url104]: https://302.ai/ja/tools/voicearena/
+[saas-image104]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url105]: https://github.com/302ai/302_ai_voice_arena
+[saas-image105]: https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social
+<a href="https://github.com/302ai/302_ai_voice_arena"><img src="/语音竞技场jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
