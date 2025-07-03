@@ -16,8 +16,8 @@ All tools can be used online without deployment on the 302.AI platform: [Link](h
 
 It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
 
-## Desktop Client
-We have open-sourced the native 302.AI client, 302 AI Studio.
+## Client
+We have open-sourced the native 302.AI client.
 
 | # | Name | Description | Link | Download | Stars |
 |------|----------|------|------|------|-------|
