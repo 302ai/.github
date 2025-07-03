@@ -16,6 +16,13 @@ All tools can be used online without deployment on the 302.AI platform: [Link](h
 
 It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
 
+## Desktop Client
+We have open-sourced the native 302.AI client, 302 AI Studio.
+
+| # | Name | Description | Link | Download | Stars |
+|------|----------|------|------|------|-------|
+| 1 | 302-AI-Studio | A desktop client that supports multiple large language model (LLM) providers | [Link](https://github.com/302ai/302-AI-Studio) | [Download](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
+
 ## Open Source List
 
 *(We have open-sourced 52 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅

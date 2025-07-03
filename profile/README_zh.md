@@ -16,6 +16,13 @@
 
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
+## 桌面客户端
+我们开源了302.AI原生客户端302 AI Studio
+
+| # | 名称 | 描述 | 链接 |  下载 | Stars |
+|------|----------|------|------|------|-------|
+| 1 | 302-AI-Studio | 一款支持多种大模型（LLM）服务商的桌面客户端 | [链接](https://github.com/302ai/302-AI-Studio) | [下载](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
+
 ## 开源列表
 *(我们开源了52个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
