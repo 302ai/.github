@@ -17,11 +17,12 @@ All tools can be used online without deployment on the 302.AI platform: [Link](h
 It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
 
 ## Client
-We have open-sourced the native 302.AI client.
+We have open-sourced the native 302.AI client. 🥰
 
 | # | Name | Description | Link | Download | Stars |
 |------|----------|------|------|------|-------|
 | 1 | 302-AI-Studio | A desktop client that supports multiple large language model (LLM) providers | [Link](https://github.com/302ai/302-AI-Studio) | [Download](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
+| 2 | 302.AI-iOS-APP | A powerful AI chat iOS application that integrates multiple models | [Link](https://github.com/302ai/302.AI-iOS-APP) | [Download](https://apps.apple.com/us/app/302-ai/id6744959746) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-iOS-APP?style=social) |
 
 ## Open Source List
 

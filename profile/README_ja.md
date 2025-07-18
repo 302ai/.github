@@ -22,6 +22,7 @@
 | # | 名称 | 説明 | リンク | ダウンロード | Stars |
 |------|----------|------|------|------|-------|
 | 1 | 302-AI-Studio | 複数の大規模言語モデル（LLM）プロバイダーに対応したデスクトップクライアント | [Link](https://github.com/302ai/302-AI-Studio) | [Download](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
+| 2 | 302.AI-iOS-APP | 強力な機能を備えた、マルチモデルを集めたAIチャットiOSアプリケーション | [Link](https://github.com/302ai/302.AI-iOS-APP) | [Download](https://apps.apple.com/us/app/302-ai/id6744959746) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-iOS-APP?style=social) |
 
 ## オープンソースリスト
 
