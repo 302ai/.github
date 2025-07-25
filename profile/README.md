@@ -23,6 +23,7 @@ We have open-sourced the native 302.AI client. 🥰
 |------|----------|------|------|------|-------|
 | 1 | 302-AI-Studio | A desktop client that supports multiple large language model (LLM) providers | [Link](https://github.com/302ai/302-AI-Studio) | [Download](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
 | 2 | 302.AI-iOS-APP | A powerful AI chat iOS application that integrates multiple models | [Link](https://github.com/302ai/302.AI-iOS-APP) | [Download](https://apps.apple.com/us/app/302-ai/id6744959746) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-iOS-APP?style=social) |
+| 3 | 302.AI-Android-APP | A powerful AI chat Android application that integrates multiple models | [Link](https://github.com/302ai/302.AI-Android-APP) | [Download](https://apps.apple.com/us/app/302-ai/id6744959746) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-Android-APP?style=social) |
 
 ## Open Source List
 
