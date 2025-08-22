@@ -12,7 +12,7 @@
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ## 在线体验
-所有工具均可以在302.AI平台无需部署在线使用：[链接](https://302.ai/tools/)
+所有工具均可以在302.AI平台无需部署在线使用：[链接](https://302.ai/)
 
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
@@ -26,14 +26,14 @@
 | 3 | 302.AI-Android-APP | 一款功能强大，集合多模型的 AI 聊天Android应用 | [链接](https://github.com/302ai/302.AI-Android-APP) | [下载](https://github.com/302ai/302.AI-Android-APP/releases/tag/v1.0.2) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-Android-APP?style=social) |
 
 ## 开源列表
-*(我们开源了52个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了53个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
 | 1 | 302-AI-SDK | 这是与Vercel AI SDK集成的302AI官方提供商SDK | [链接](https://github.com/302ai/ai-sdk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-sdk?style=social) |
 | 2 | 302-DEV-KIT | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
 | 3 | 302-LLM-Playground | 强大的LLM Playground | [链接](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
-| 4 | AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
+| 4 | AI图片工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
 | 6 | AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
 | 7 | AI实时视频翻译 | AI翻译视频并在线播放 | [链接](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
@@ -82,6 +82,7 @@
 | 50 | AI模型判官 | AI模型评测工具 | [链接](https://github.com/302ai/302_ai_ai_model_judge) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social) |
 | 51 | AI小说写作 | 使用AI进行小说写作 | [链接](https://github.com/302ai/302_novel_writing) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_novel_writing?style=social) |
 | 52 | 语音竞技场 | AI模型语音生成能力大比拼 | [链接](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social) |
+| 53 | 数字人生成 | 使用AI生成数字人分身 | [链接](https://github.com/302ai/302_ai_avatar_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social) |
 
 ## MCP 服务列表
 
@@ -99,7 +100,7 @@
 [![Saas][Saas-image66]][saas-url66]
 [![Saas][Saas-image67]][saas-url67]
 
-[saas-url66]: https://302.ai/tools/
+[saas-url66]: https://302.ai/
 [saas-image66]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url67]: https://github.com/302ai/ai-sdk
 [saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
@@ -113,7 +114,7 @@
 [![Saas][Saas-image]][saas-url]
 [![Saas][Saas-image3]][saas-url3]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -130,7 +131,7 @@
 [![Saas][Saas-image4]][saas-url4]
 [![Saas][Saas-image5]][saas-url5]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url4]: https://302.ai/apis/
 [saas-image4]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -139,7 +140,7 @@
  
 <a href="https://github.com/302ai/302_llm_playground"><img src="https://github.com/302ai/.github/blob/main/302-LLM-%E6%B8%B8%E4%B9%90%E5%9C%BA.png?raw=true"/></a>
 
-## 4. AI图像工具箱 ##
+## 4. AI图片工具箱 ##
 
 支持20种图像工具
 
@@ -147,9 +148,9 @@
 [![Saas][Saas-image6]][saas-url6]
 [![Saas][Saas-image7]][saas-url7]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url6]: https://302.ai/tools/pictool/
+[saas-url6]: https://302.ai/product/detail/29
 [saas-image6]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url7]: https://github.com/302ai/302_image_toolbox
 [saas-image7]: https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social
@@ -164,9 +165,9 @@
 [![Saas][Saas-image8]][saas-url8]
 [![Saas][Saas-image9]][saas-url9]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url8]: https://302.ai/tools/prompter/
+[saas-url8]: https://302.ai/product/detail/24
 [saas-image8]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url9]: https://github.com/302ai/302_prompt_generator
 [saas-image9]: https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social
@@ -180,9 +181,9 @@
 [![Saas][Saas-image10]][saas-url10]
 [![Saas][Saas-image11]][saas-url11]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url10]: https://302.ai/tools/vgen/
+[saas-url10]: https://302.ai/product/detail/26
 [saas-image10]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url11]: https://github.com/302ai/302_video_generator
 [saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
@@ -196,9 +197,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image12]][saas-url12]
 [![Saas][Saas-image13]][saas-url13]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url12]: https://302.ai/tools/vt/
+[saas-url12]: https://302.ai/product/detail/35
 [saas-image12]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url13]: https://github.com/302ai/302_video_translation
 [saas-image13]: https://img.shields.io/github/stars/302ai/302_video_translation?style=social
@@ -212,9 +213,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image14]][saas-url14]
 [![Saas][Saas-image15]][saas-url15]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url14]: https://302.ai/tools/videosum/
+[saas-url14]: https://302.ai/product/detail/30
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url15]: https://github.com/302ai/302_video_summary
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
@@ -228,9 +229,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image16]][saas-url16]
 [![Saas][Saas-image17]][saas-url17]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url16]: https://302.ai/tools/pt/
+[saas-url16]: https://302.ai/product/detail/39
 [saas-image16]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url17]: https://github.com/302ai/302_image_translation
 [saas-image17]: https://img.shields.io/github/stars/302ai/302_image_translation?style=social
@@ -244,9 +245,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image18]][saas-url18]
 [![Saas][Saas-image19]][saas-url19]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url18]: https://302.ai/tools/paper/
+[saas-url18]: https://302.ai/product/detail/32
 [saas-image18]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url19]: https://github.com/302ai/302_paper_writting
 [saas-image19]: https://img.shields.io/github/stars/302ai/302_paper_writting?style=social
@@ -260,9 +261,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image20]][saas-url20]
 [![Saas][Saas-image21]][saas-url21]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url20]: https://302.ai/tools/tts/
+[saas-url20]: https://302.ai/product/detail/19
 [saas-image20]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url21]: https://github.com/302ai/302_tts
 [saas-image21]: https://img.shields.io/github/stars/302ai/302_tts?style=social
@@ -276,9 +277,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image22]][saas-url22]
 [![Saas][Saas-image23]][saas-url23]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url22]: https://302.ai/tools/realtime/
+[saas-url22]: https://302.ai/product/detail/44
 [saas-image22]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url23]: https://github.com/302ai/302_voice_call
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
@@ -292,9 +293,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image24]][saas-url24]
 [![Saas][Saas-image25]][saas-url25]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url24]: https://302.ai/tools/coder/
+[saas-url24]: https://302.ai/product/detail/40
 [saas-image24]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url25]: https://github.com/302ai/302_coder_generator
 [saas-image25]: https://img.shields.io/github/stars/302ai/302_coder_generator?style=social
@@ -308,9 +309,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image26]][saas-url26]
 [![Saas][Saas-image27]][saas-url27]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url26]: https://302.ai/tools/podcast/
+[saas-url26]: https://302.ai/product/detail/41
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url27]: https://github.com/302ai/302_podcast_generator
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
@@ -324,9 +325,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image28]][saas-url28]
 [![Saas][Saas-image29]][saas-url29]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url28]: https://302.ai/tools/writing/
+[saas-url28]: https://302.ai/product/detail/31
 [saas-image28]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url29]: https://github.com/302ai/302_copywriting_assistant
 [saas-image29]: https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social
@@ -340,9 +341,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image30]][saas-url30]
 [![Saas][Saas-image31]][saas-url31]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url30]: https://302.ai/tools/ecom/
+[saas-url30]: https://302.ai/product/detail/34
 [saas-image30]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url31]: https://github.com/302ai/302_e_commerce_copywriting_assistant
 [saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
@@ -356,9 +357,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image32]][saas-url32]
 [![Saas][Saas-image33]][saas-url33]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url32]: https://302.ai/tools/restoration/
+[saas-url32]: https://302.ai/product/detail/18
 [saas-image32]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url33]: https://github.com/302ai/302_photo_restore
 [saas-image33]: https://img.shields.io/github/stars/302ai/302_photo_restore?style=social
@@ -372,9 +373,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image34]][saas-url34]
 [![Saas][Saas-image35]][saas-url35]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url34]: https://302.ai/tools/websum/
+[saas-url34]: https://302.ai/product/detail/43
 [saas-image34]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url35]: https://github.com/302ai/302_webpage_summary
 [saas-image35]: https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social
@@ -388,9 +389,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image36]][saas-url36]
 [![Saas][Saas-image37]][saas-url37]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url36]: https://302.ai/tools/headshot/
+[saas-url36]: https://302.ai/product/detail/46
 [saas-image36]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url37]: https://github.com/302ai/302_avatar_maker
 [saas-image37]: https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social
@@ -404,9 +405,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image38]][saas-url38]
 [![Saas][Saas-image39]][saas-url39]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url38]: https://302.ai/tools/ecom1/
+[saas-url38]: https://302.ai/product/detail/23
 [saas-image38]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url39]: https://github.com/302ai/302_ecom_image_generator
 [saas-image39]: https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social
@@ -420,9 +421,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image40]][saas-url40]
 [![Saas][Saas-image41]][saas-url41]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url40]: https://302.ai/tools/idphotos/
+[saas-url40]: https://302.ai/product/detail/42
 [saas-image40]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url41]: https://github.com/302ai/302_id_photo_generation
 [saas-image41]: https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social
@@ -436,9 +437,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image42]][saas-url42]
 [![Saas][Saas-image43]][saas-url43]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url42]: https://302.ai/tools/academic/
+[saas-url42]: https://302.ai/product/detail/16
 [saas-image42]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url43]: https://github.com/302ai/302_academic_thesis_search
 [saas-image43]: https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social
@@ -452,9 +453,9 @@ AI翻译视频并在线播放
 [![Saas][Saas-image44]][saas-url44]
 [![Saas][Saas-image45]][saas-url45]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url44]: https://302.ai/tools/patent/
+[saas-url44]: https://302.ai/product/detail/28
 [saas-image44]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url45]: https://github.com/302ai/302_patent_search
 [saas-image45]: https://img.shields.io/github/stars/302ai/302_patent_search?style=social
@@ -468,9 +469,9 @@ AI版Word
 [![Saas][Saas-image46]][saas-url46]
 [![Saas][Saas-image47]][saas-url47]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url46]: https://302.ai/tools/word/
+[saas-url46]: https://302.ai/product/detail/36
 [saas-image46]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url47]: https://github.com/302ai/302_document_editor
 [saas-image47]: https://img.shields.io/github/stars/302ai/302_document_editor?style=social
@@ -485,9 +486,9 @@ AI版Word
 [![Saas][Saas-image48]][saas-url48]
 [![Saas][Saas-image49]][saas-url49]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url48]: https://302.ai/tools/music/
+[saas-url48]: https://302.ai/product/detail/38
 [saas-image48]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url49]: https://github.com/302ai/302_music_generator
 [saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
@@ -501,9 +502,9 @@ AI版Word
 [![Saas][Saas-image50]][saas-url50]
 [![Saas][Saas-image51]][saas-url51]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url50]: https://302.ai/tools/whiteboard/
+[saas-url50]: https://302.ai/product/detail/45
 [saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url51]: https://github.com/302ai/302_whiteboard
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
@@ -517,9 +518,9 @@ AI版Word
 [![Saas][Saas-image52]][saas-url52]
 [![Saas][Saas-image53]][saas-url53]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url52]: https://302.ai/tools/video/
+[saas-url52]: https://302.ai/product/detail/20
 [saas-image52]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url53]: https://github.com/302ai/302_video_creation_hub
 [saas-image53]: https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social
@@ -533,9 +534,9 @@ AI版Word
 [![Saas][Saas-image54]][saas-url54]
 [![Saas][Saas-image55]][saas-url55]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url54]: https://302.ai/tools/resume/
+[saas-url54]: https://302.ai/product/detail/50
 [saas-image54]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url55]: https://github.com/302ai/302_resume
 [saas-image55]: https://img.shields.io/github/stars/302ai/302_resume?style=social
@@ -549,9 +550,9 @@ AI版Word
 [![Saas][Saas-image56]][saas-url56]
 [![Saas][Saas-image57]][saas-url57]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url56]: https://302.ai/tools/lipsync/
+[saas-url56]: https://302.ai/product/detail/47
 [saas-image56]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url57]: https://github.com/302ai/302_lipsync
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
@@ -565,9 +566,9 @@ AI版Word
 [![Saas][Saas-image58]][saas-url58]
 [![Saas][Saas-image59]][saas-url59]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url58]: https://302.ai/tools/finance/
+[saas-url58]: https://302.ai/product/detail/48
 [saas-image58]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url59]: https://github.com/302ai/302_financial_information_assistant
 [saas-image59]: https://img.shields.io/github/stars/302ai/302_financial_information_assistant?style=social
@@ -581,9 +582,9 @@ AI版Word
 [![Saas][Saas-image60]][saas-url60]
 [![Saas][Saas-image61]][saas-url61]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url60]: https://302.ai/tools/dubbing/
+[saas-url60]: https://302.ai/product/detail/51
 [saas-image60]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url61]: https://github.com/302ai/302_ai_deep_video_translation
 [saas-image61]: https://img.shields.io/github/stars/302ai/302_ai_deep_video_translation?style=social
@@ -597,9 +598,9 @@ AI版Word
 [![Saas][Saas-image62]][saas-url62]
 [![Saas][Saas-image63]][saas-url63]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url62]: https://302.ai/tools/rpcg/
+[saas-url62]: https://302.ai/product/detail/52
 [saas-image62]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url63]: https://github.com/302ai/302_red_packet_generation
 [saas-image63]: https://img.shields.io/github/stars/302ai/302_red_packet_generation?style=social
@@ -613,9 +614,9 @@ AI版Word
 [![Saas][Saas-image64]][saas-url64]
 [![Saas][Saas-image65]][saas-url65]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url64]: https://302.ai/tools/tryon/
+[saas-url64]: https://302.ai/product/detail/53
 [saas-image64]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url65]: https://github.com/302ai/302_virtual_try_on
 [saas-image65]: https://img.shields.io/github/stars/302ai/302_virtual_try_on?style=social
@@ -629,9 +630,9 @@ AI版Word
 [![Saas][Saas-image68]][saas-url68]
 [![Saas][Saas-image69]][saas-url69]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url68]: https://302.ai/tools/answer/
+[saas-url68]: https://302.ai/product/detail/54
 [saas-image68]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url69]: https://github.com/302ai/302_ai_answer_machine
 [saas-image69]: https://img.shields.io/github/stars/302ai/302_ai_answer_machine?style=social
@@ -645,9 +646,9 @@ AI版Word
 [![Saas][Saas-image70]][saas-url70]
 [![Saas][Saas-image71]][saas-url71]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url70]: https://302.ai/tools/vector/
+[saas-url70]: https://302.ai/product/detail/56
 [saas-image70]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url71]: https://github.com/302ai/302_vector_graphics_generation
 [saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
@@ -661,9 +662,9 @@ AI版Word
 [![Saas][Saas-image72]][saas-url72]
 [![Saas][Saas-image73]][saas-url73]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url72]: https://302.ai/tools/pdftranslate/
+[saas-url72]: https://302.ai/product/detail/25
 [saas-image72]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url73]: https://github.com/302ai/302_pdf_all_in_one_toolbox
 [saas-image73]: https://img.shields.io/github/stars/302ai/302_pdf_all_in_one_toolbox?style=social
@@ -677,9 +678,9 @@ AI版Word
 [![Saas][Saas-image74]][saas-url74]
 [![Saas][Saas-image75]][saas-url75]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url74]: https://302.ai/tools/3d/
+[saas-url74]: https://302.ai/product/detail/58
 [saas-image74]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url75]: https://github.com/302ai/302_ai_3d_modeling
 [saas-image75]: https://img.shields.io/github/stars/302ai/302_ai_3d_modeling?style=social
@@ -693,9 +694,9 @@ AI版Word
 [![Saas][Saas-image76]][saas-url76]
 [![Saas][Saas-image77]][saas-url77]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url76]: https://302.ai/tools/front/
+[saas-url76]: https://302.ai/product/detail/21
 [saas-image76]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url77]: https://github.com/302ai/302_web_page_generator
 [saas-image77]: https://img.shields.io/github/stars/302ai/302_web_page_generator?style=social
@@ -709,9 +710,9 @@ AI版Word
 [![Saas][Saas-image78]][saas-url78]
 [![Saas][Saas-image79]][saas-url79]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url78]: https://302.ai/tools/prompt/
+[saas-url78]: https://302.ai/product/detail/60
 [saas-image78]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url79]: https://github.com/302ai/302_prompt_expert
 [saas-image79]: https://img.shields.io/github/stars/302ai/302_prompt_expert?style=social
@@ -725,9 +726,9 @@ AI模型文生图能力大比拼
 [![Saas][Saas-image80]][saas-url80]
 [![Saas][Saas-image81]][saas-url81]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url80]: https://302.ai/tools/imgarena/
+[saas-url80]: https://302.ai/product/detail/57
 [saas-image80]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url81]: https://github.com/302ai/302_image_arena
 [saas-image81]: https://img.shields.io/github/stars/302ai/302_image_arena?style=social
@@ -741,9 +742,9 @@ AI模型文生图能力大比拼
 [![Saas][Saas-image82]][saas-url82]
 [![Saas][Saas-image83]][saas-url83]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url82]: https://302.ai/tools/lora/
+[saas-url82]: https://302.ai/product/detail/61
 [saas-image82]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url83]: https://github.com/302ai/302_lora
 [saas-image83]: https://img.shields.io/github/stars/302ai/302_lora?style=social
@@ -757,9 +758,9 @@ AI模型代码能力大比拼
 [![Saas][Saas-image84]][saas-url84]
 [![Saas][Saas-image85]][saas-url85]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url84]: https://302.ai/tools/codearena/
+[saas-url84]: https://302.ai/product/detail/59
 [saas-image84]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url85]: https://github.com/302ai/302_code_arena
 [saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
@@ -773,9 +774,9 @@ AI模型代码能力大比拼
 [![Saas][Saas-image86]][saas-url86]
 [![Saas][Saas-image87]][saas-url87]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url86]: https://302.ai/tools/verify/
+[saas-url86]: https://302.ai/product/detail/62
 [saas-image86]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url87]: https://github.com/302ai/302_facts_proof
 [saas-image87]: https://img.shields.io/github/stars/302ai/302_facts_proof?style=social
@@ -789,9 +790,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image88]][saas-url88]
 [![Saas][Saas-image89]][saas-url89]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url88]: https://302.ai/tools/videoarena/
+[saas-url88]: https://302.ai/product/detail/63
 [saas-image88]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url89]: https://github.com/302ai/302_video_arena
 [saas-image89]: https://img.shields.io/github/stars/302ai/302_video_arena?style=social
@@ -805,9 +806,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image90]][saas-url90]
 [![Saas][Saas-image91]][saas-url91]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url90]: https://302.ai/tools/comfytools/
+[saas-url90]: https://302.ai/product/detail/64
 [saas-image90]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url91]: https://github.com/302ai/302_comfyui_toolbox
 [saas-image91]: https://img.shields.io/github/stars/302ai/302_comfyui_toolbox?style=social
@@ -821,9 +822,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image92]][saas-url92]
 [![Saas][Saas-image93]][saas-url93]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url92]: https://302.ai/tools/webserve/
+[saas-url92]: https://302.ai/product/detail/65
 [saas-image92]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url93]: https://github.com/302ai/302_deploy_web_pages_by_one_click
 [saas-image93]: https://img.shields.io/github/stars/302ai/302_deploy_web_pages_by_one_click?style=social
@@ -837,9 +838,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image94]][saas-url94]
 [![Saas][Saas-image95]][saas-url95]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url94]: https://302.ai/tools/imgprompt/
+[saas-url94]: https://302.ai/product/detail/66
 [saas-image94]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url95]: https://github.com/302ai/ai_drawing_prompt_word_expert
 [saas-image95]: https://img.shields.io/github/stars/302ai/ai_drawing_prompt_word_expert?style=social
@@ -853,9 +854,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image96]][saas-url96]
 [![Saas][Saas-image97]][saas-url97]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url96]: https://302.ai/tools/card/
+[saas-url96]: https://302.ai/product/detail/67
 [saas-image96]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url97]: https://github.com/302ai/302_ai_card_generation
 [saas-image97]: https://img.shields.io/github/stars/302ai/302_ai_card_generation?style=social
@@ -869,9 +870,9 @@ AI模型视频生成能力大比拼
 [![Saas][Saas-image98]][saas-url98]
 [![Saas][Saas-image99]][saas-url99]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url98]: https://302.ai/tools/gptimg/
+[saas-url98]: https://302.ai/product/detail/68
 [saas-image98]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url99]: https://github.com/302ai/302_ai_image_creative_station
 [saas-image99]: https://img.shields.io/github/stars/302ai/302_ai_image_creative_station?style=social
@@ -885,9 +886,9 @@ AI模型评测工具
 [![Saas][Saas-image100]][saas-url100]
 [![Saas][Saas-image101]][saas-url101]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url100]: https://302.ai/tools/judge/
+[saas-url100]: https://302.ai/product/detail/69
 [saas-image100]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url101]: https://github.com/302ai/302_ai_ai_model_judge
 [saas-image101]: https://img.shields.io/github/stars/302ai/302_ai_ai_model_judge?style=social
@@ -901,9 +902,9 @@ AI模型评测工具
 [![Saas][Saas-image102]][saas-url102]
 [![Saas][Saas-image103]][saas-url103]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url102]: https://302.ai/tools/novel/
+[saas-url102]: https://302.ai/product/detail/70
 [saas-image102]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url103]: https://github.com/302ai/302_novel_writing
 [saas-image103]: https://img.shields.io/github/stars/302ai/302_novel_writing?style=social
@@ -917,12 +918,28 @@ AI模型语音生成能力大比拼
 [![Saas][Saas-image104]][saas-url104]
 [![Saas][Saas-image105]][saas-url105]
 
-[saas-url]: https://302.ai/tools/
+[saas-url]: https://302.ai/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url104]: https://302.ai/tools/voicearena/
+[saas-url104]: https://302.ai/product/detail/71
 [saas-image104]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url105]: https://github.com/302ai/302_ai_voice_arena
 [saas-image105]: https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social
 <a href="https://github.com/302ai/302_ai_voice_arena"><img src="/语音竞技场.png"/></a>
+
+## 53. 数字人生成  ##
+
+使用AI生成数字人分身
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image106]][saas-url106]
+[![Saas][Saas-image107]][saas-url107]
+
+[saas-url]: https://302.ai/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url106]: https://302.ai/product/detail/2151
+[saas-image106]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url107]: https://github.com/302ai/302_ai_avatar_generator
+[saas-image107]: https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social
+<a href="https://github.com/302ai/302_ai_avatar_generator"><img src="/数字人生成.png"/></a>
 
 ### 每周更新，保持关注。
