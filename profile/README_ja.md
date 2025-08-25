@@ -334,23 +334,7 @@ AI音声ポッドキャストを迅速に生成
 [saas-image29]: https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social
 <a href="https://github.com/302ai/302_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Bjp.png?raw=true"/></a>
 
-## 16. AI電子商取引コピーライティングアシスタント ##
-
-プロンプトに基づいて電子商取引のコピーを素早く生成
-
-[![Saas][Saas-image]][saas-url]
-[![Saas][Saas-image30]][saas-url30]
-[![Saas][Saas-image31]][saas-url31]
-
-[saas-url]: https://302.ai/
-[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url30]: https://302.ai/product/detail/34
-[saas-image30]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url31]: https://github.com/302ai/302_e_commerce_copywriting_assistant
-[saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
-<a href="https://github.com/302ai/302_e_commerce_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Bjp.png?raw=true"/></a>
-
-## 17. AI古写真修復 ##
+## 16. AI古写真修復 ##
 
 古い写真を拡大、色付け、動画化
 
@@ -365,6 +349,22 @@ AI音声ポッドキャストを迅速に生成
 [saas-url33]: https://github.com/302ai/302_photo_restore
 [saas-image33]: https://img.shields.io/github/stars/302ai/302_photo_restore?style=social
 <a href="https://github.com/302ai/302_photo_restore"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8Djp.png?raw=true"/></a>
+
+## 17. AI電子商取引コピーライティングアシスタント ##
+
+プロンプトに基づいて電子商取引のコピーを素早く生成
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image30]][saas-url30]
+[![Saas][Saas-image31]][saas-url31]
+
+[saas-url]: https://302.ai/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url30]: https://302.ai/product/detail/34
+[saas-image30]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url31]: https://github.com/302ai/302_e_commerce_copywriting_assistant
+[saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
+<a href="https://github.com/302ai/302_e_commerce_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Bjp.png?raw=true"/></a>
 
 ## 18. AIウェブページ要約 ##
 
