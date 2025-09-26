@@ -27,7 +27,7 @@
 
 ## オープンソースリスト
 
-*(私たちは、さまざまな分野を対象とする53のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+*(私たちは、さまざまな分野を対象とする54のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
 
 
 | # | ツール名 | 説明 | Link | Stars |
@@ -85,6 +85,7 @@
 | 51 | AI小説執筆 | AIを使った小説執筆 | [Link](https://github.com/302ai/302_novel_writing) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_novel_writing?style=social)
 | 52 | ボイスアリーナ | AIモデルの音声生成能力の比較 | [Link](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social)
 | 53 | デジタルヒューマン生成 | AIを用いたデジタル人分身の生成 | [Link](https://github.com/302ai/302_ai_avatar_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social)
+| 54 | AIポートレートクリエイティブステーション | ポートレート写真を入力し、さまざまなスタイルの写真に生成します | [Link](https://github.com/302ai/302_ai_portraithub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social)
 
 ## MCPサーバリスト
 
@@ -919,5 +920,20 @@ AIを用いたデジタル人分身の生成
 [saas-url107]: https://github.com/302ai/302_ai_avatar_generator
 [saas-image107]: https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social
 <a href="https://github.com/302ai/302_ai_avatar_generator"><img src="/数字人生成jp.png"/></a> 
+
+## 54. AIポートレートクリエイティブステーション ##
+
+ポートレート写真を入力し、さまざまなスタイルの写真に生成します
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image108]][saas-url108]
+[![Saas][Saas-image109]][saas-url109]
+
+[saas-url]: https://302.ai/
+[saas-url108]: https://302.ai/product/detail/2484
+[saas-image108]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url109]: https://github.com/302ai/302_ai_portraithub
+[saas-image109]: https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social
+<a href="https://github.com/302ai/302_ai_portraithub"><img src="/AI人像创意站jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
