@@ -23,7 +23,7 @@
 |------|----------|------|------|------|-------|
 | 1 | 302-AI-Studio | 一款支持多种大模型（LLM）服务商的桌面客户端 | [链接](https://github.com/302ai/302-AI-Studio) | [下载](https://github.com/302ai/302-AI-Studio/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-AI-Studio?style=social) |
 | 2 | 302.AI-iOS-APP | 一款功能强大，集合多模型的 AI 聊天iOS应用 | [链接](https://github.com/302ai/302.AI-iOS-APP) | [下载](https://apps.apple.com/us/app/302-ai/id6744959746) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-iOS-APP?style=social) |
-| 3 | 302.AI-Android-APP | 一款功能强大，集合多模型的 AI 聊天Android应用 | [链接](https://github.com/302ai/302.AI-Android-APP) | [下载](https://github.com/302ai/302.AI-Android-APP/releases/tag/v1.0.2) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-Android-APP?style=social) |
+| 3 | 302.AI-Android-APP | 一款功能强大，集合多模型的 AI 聊天Android应用 | [链接](https://github.com/302ai/302.AI-Android-APP-New) | [下载](https://github.com/302ai/302.AI-Android-APP-New/releases/download/v1.0.0/302.AI_Android_New_v1.0.0.apk) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-Android-APP-New?style=social) |
 
 ## 开源列表
 *(我们开源了54个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
