@@ -35,7 +35,7 @@
 | 3 | 302-LLM-Playground | 强大的LLM Playground | [链接](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI图片工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
-| 6 | AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
+| 6 | AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302-video-generator-public) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-video-generator-public?style=social) |
 | 7 | AI实时视频翻译 | AI翻译视频并在线播放 | [链接](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
 | 8 | AI音视频总结 | 一键总结视频内容 | [链接](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
 | 9 | AI图像翻译 | 翻译图像中的文字并生成新图像 | [链接](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
@@ -186,9 +186,9 @@
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url10]: https://302.ai/product/detail/26
 [saas-image10]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url11]: https://github.com/302ai/302_video_generator
-[saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
-<a href="https://github.com/302ai/302_video_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8.png?raw=true"/></a>
+[saas-url11]: https://github.com/302ai/302-video-generator-public
+[saas-image11]: https://img.shields.io/github/stars/302ai/302-video-generator-public?style=social
+<a href="https://github.com/302ai/302-video-generator-public"><img src="/AI 视频生成器.png"/></a>
 
 ## 7. AI实时视频翻译 ##
 

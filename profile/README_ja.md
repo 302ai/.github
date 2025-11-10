@@ -37,7 +37,7 @@
 | 3 | 302-LLM-Playground | 強力なLLM Playground | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | 4 | AI画像ツールボックス | 20種類の画像ツールをサポート | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | 5 | AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
-| 6 | AI動画ジェネレーター | 複数の動画モデルをサポート | [Link](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
+| 6 | AI動画ジェネレーター | 複数の動画モデルをサポート | [Link](https://github.com/302ai/302-video-generator-public) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-video-generator-public?style=social) |
 | 7 | AIリアルタイム動画翻訳 | AI が動画を翻訳しオンラインで再生 | [Link](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
 | 8 | AI音声/動画要約 | ワンクリックで動画内容を要約 | [Link](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
 | 9 | AI画像翻訳 | 画像内のテキストを翻訳し新しい画像を生成 | [Link](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
@@ -187,9 +187,9 @@
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url10]: https://302.ai/product/detail/26
 [saas-image10]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
-[saas-url11]: https://github.com/302ai/302_video_generator
-[saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
-<a href="https://github.com/302ai/302_video_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8jp.png?raw=true"/></a>
+[saas-url11]: https://github.com/302ai/302-video-generator-public
+[saas-image11]: https://img.shields.io/github/stars/302ai/302-video-generator-public?style=social
+<a href="https://github.com/302ai/302-video-generator-public"><img src="/AI 视频生成器jp.png"/></a>
 
 ## 7. AIリアルタイム動画翻訳 ##
 
