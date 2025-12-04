@@ -27,7 +27,7 @@ We have open-sourced the native 302.AI client. 🥰
 
 ## Open Source List
 
-*(We have open-sourced 54 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 55 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -85,6 +85,7 @@ We have open-sourced the native 302.AI client. 🥰
 | 52 | Voice Arena | AI Model Speech Generation Ability Competition | [Link](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social) |
 | 53 | AI Avatar Generator | Using AI to generate digital avatars | [Link](https://github.com/302ai/302_ai_avatar_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social) |
 | 54 | AI Portrait Studio | Input a portrait photo to generate multiple styled portraits | [Link](https://github.com/302ai/302_ai_portraithub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social) |
+| 55 | AI Master Translator | Use AI to quickly generate accurate translations | [Link](https://github.com/302ai/302_ai_translater) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_translater?style=social) |
 
 ## MCP Server List
 
@@ -959,5 +960,21 @@ Input a portrait photo to generate multiple styled portraits
 [saas-url109]: https://github.com/302ai/302_ai_portraithub
 [saas-image109]: https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social
 <a href="https://github.com/302ai/302_ai_portraithub"><img src="/AI人像创意站en.png"/></a>
+
+## 55. AI Master Translator ##
+
+Use AI to quickly generate accurate translations
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image110]][saas-url110]
+[![Saas][Saas-image111]][saas-url111]
+
+[saas-url]: https://302.ai/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url110]: https://302.ai/product/detail/ai-translate-master
+[saas-image110]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url111]: https://github.com/302ai/302_ai_translater
+[saas-image111]: https://img.shields.io/github/stars/302ai/302_ai_translater?style=social
+<a href="https://github.com/302ai/302_ai_translater"><img src="/AI翻译大师en.png"/></a>
 
 ### Weekly updates, stay tuned.

@@ -26,7 +26,7 @@
 | 3 | 302.AI-Android-APP | 一款功能强大，集合多模型的 AI 聊天Android应用 | [链接](https://github.com/302ai/302.AI-Android-APP-New) | [下载](https://github.com/302ai/302.AI-Android-APP-New/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302.AI-Android-APP-New?style=social) |
 
 ## 开源列表
-*(我们开源了54个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
+*(我们开源了55个项目，覆盖了各个领域，所以列表有点长，但是应该有你需要的)* 😅
 
 | # | 工具名称 | 描述 | 链接 | Stars |
 |------|----------|------|------|-------|
@@ -84,6 +84,7 @@
 | 52 | 语音竞技场 | AI模型语音生成能力大比拼 | [链接](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social) |
 | 53 | 数字人生成 | 使用AI生成数字人分身 | [链接](https://github.com/302ai/302_ai_avatar_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social) |
 | 54 | AI人像创意站 | 传入人像照片，生成多种风格写真 | [链接](https://github.com/302ai/302_ai_portraithub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social) |
+| 55 | AI翻译大师 | 利用AI快速生成准确的翻译 | [链接](https://github.com/302ai/302_ai_translater) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_translater?style=social) |
 
 ## MCP 服务列表
 
@@ -958,5 +959,21 @@ AI模型语音生成能力大比拼
 [saas-url109]: https://github.com/302ai/302_ai_portraithub
 [saas-image109]: https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social
 <a href="https://github.com/302ai/302_ai_portraithub"><img src="/AI人像创意站.png"/></a>
+
+## 55. AI翻译大师  ##
+
+利用AI快速生成准确的翻译
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image110]][saas-url110]
+[![Saas][Saas-image111]][saas-url111]
+
+[saas-url]: https://302.ai/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url110]: https://302.ai/product/detail/ai-translate-master
+[saas-image110]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url111]: https://github.com/302ai/302_ai_translater
+[saas-image111]: https://img.shields.io/github/stars/302ai/302_ai_translater?style=social
+<a href="https://github.com/302ai/302_ai_translater"><img src="/AI翻译大师.png"/></a>
 
 ### 每周更新，保持关注。
