@@ -16,6 +16,14 @@
 
 建议先在线体验，再从列表中找到自己感兴趣的项目进行私有部署或二次开发。
 
+## Skill
+让您的 agent 更方便使用我们的产品 🥰
+ 
+| # | Name | Description | Link | Download | Stars |
+|---|------|-------------|------|----------|-------|
+| 1 | 302.AI CLI Skill | 通过 CLI 调用 302 的热门模型 | [Link](https://github.com/302ai/302ai-cli-skill) | [Download](https://github.com/302ai/302ai-cli-skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302ai-cli-skill?style=social) |
+| 2 | 302.AI API Integration Skill | 通过 API 调用 302 的所有模型 | [Link](https://github.com/302ai/302AI-API-Integration-Skill) | [Download](https://github.com/302ai/302AI-API-Integration-Skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302AI-API-Integration-Skill?style=social) |
+
 ## 客户端
 我们开源了302.AI原生客户端 🥰
 
