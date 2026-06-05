@@ -16,6 +16,14 @@
 
 まずオンラインで体験し、その後リストから興味のあるプロジェクトを選んでプライベートデプロイまたは二次開発を行うことをお勧めします。
 
+## Skill
+あなたの agent が私たちの製品をより便利に利用できるようにします 🥰
+ 
+| # | Name | Description | Link | Download | Stars |
+|---|------|-------------|------|----------|-------|
+| 1 | 302.AI CLI Skill | CLI 経由で 302 の人気モデルを呼び出せます | [Link](https://github.com/302ai/302ai-cli-skill) | [Download](https://github.com/302ai/302ai-cli-skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302ai-cli-skill?style=social) |
+| 2 | 302.AI API Integration Skill | API 経由で 302 のすべてのモデルを呼び出せます | [Link](https://github.com/302ai/302AI-API-Integration-Skill) | [Download](https://github.com/302ai/302AI-API-Integration-Skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302AI-API-Integration-Skill?style=social) |
+
 ## クライアント
 302.AIのネイティブクライアントをオープンソース化しました
 
