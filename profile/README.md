@@ -11,10 +11,20 @@
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+
 ## Online Experience
 All tools can be used online without deployment on the 302.AI platform: [Link](https://302.ai/).
 
 It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
+				
+## Skill
+Make it easier for your agent to use our products 🥰
+ 
+| # | Name | Description | Link | Download | Stars |
+|---|------|-------------|------|----------|-------|
+| 1 | 302.AI CLI Skill | Call 302's popular models via CLI | [Link](https://github.com/302ai/302ai-cli-skill) | [Download](https://github.com/302ai/302ai-cli-skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302ai-cli-skill?style=social) |
+| 2 | 302.AI API Integration Skill | Call all 302 models via API | [Link](https://github.com/302ai/302AI-API-Integration-Skill) | [Download](https://github.com/302ai/302AI-API-Integration-Skill/releases) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302AI-API-Integration-Skill?style=social) |
+
 
 ## Client
 We have open-sourced the native 302.AI client. 🥰
